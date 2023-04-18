@@ -44,9 +44,15 @@ app.layout = html.Div(
                         dcc.Tab(label="Graph", value="tab-graph"),
                     ],
                 ),
-                html.Div(
-                    id='selector-container',
-                ),
+                html.Div([
+                    html.P("Select Species:"),
+                    dcc.Dropdown(
+                        id="species-dropdown",
+                        options=sorted(df["species"].unique()),
+                        value="Total Bird Count",
+                        clearable=False,
+                    ),
+                ])
             ],
         ),
         html.Div(
@@ -54,33 +60,6 @@ app.layout = html.Div(
         ),
     ],
 )
-
-
-@app.callback(
-    Output('selector-container', 'children'),
-    Input('tabs', 'value')
-)
-def render_selector_container(tab):
-    if tab == 'tab-map':
-        return html.Div([
-            html.P("Select Species:"),
-            dcc.Dropdown(
-                id="map-species-dropdown",
-                options=sorted(df["species"].unique()),
-                value="Total Species Count",
-                clearable=False,
-            ),
-        ])
-    elif tab == 'tab-graph':
-        return html.Div([
-            html.P("Select Species:"),
-            dcc.Dropdown(
-                id="graph-species-dropdown",
-                options=sorted(df["species"].unique()),
-                value="Total Bird Count",
-                clearable=False,
-            ),
-        ])
 
 @app.callback(
     Output('content-container', 'children'),
@@ -100,7 +79,7 @@ def render_content_container(tab):
 
 @app.callback(
     Output("count-map", "figure"), 
-    Input("map-species-dropdown", "value")
+    Input("species-dropdown", "value")
 )
 def update_map(species):
     dff = df[df["species"] == species]
@@ -121,7 +100,7 @@ def update_map(species):
         template="plotly_dark",
     )
     fig.update_layout(
-        margin={"r": 0, "t": 20, "l": 10, "b": 0},
+        margin={"r": 20, "t": 20, "l": 20, "b": 20},
         mapbox_accesstoken=token,
         mapbox_style="satellite-streets",
     )
@@ -133,7 +112,7 @@ def update_map(species):
 
 @app.callback(
     Output("count-graph", "figure"), 
-    Input("graph-species-dropdown", "value")
+    Input("species-dropdown", "value")
 )
 def update_graph(species):
     dff = df[df['species'] == species].groupby(['species','year','month']).sum('count').reset_index()
