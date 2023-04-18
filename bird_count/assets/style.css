@@ -1,0 +1,42 @@
+body {
+    background-color: #111111;
+    margin: 0;
+}
+h1, h2, h3, h4, h5, h6 {
+    color: #e1e1e1
+}
+
+P {
+    color: #c1c1c1
+}
+
+.tab.tab--selected {
+    background-color: #565656;
+}
+
+#app-container {
+    display: flex;
+    flex-direction: row;
+    height: 100vh;
+    align-items: stretch;
+}
+
+#content-container {
+    flex: 1;
+    background-color: #111111;
+}
+
+#sidebar-container {
+    background-color: #111111;
+    margin: 10px;
+    width: 250px;
+}
+
+#count-map {
+    height: 100%;
+}
+#count-graph {
+    height: 100%;
+}
+
+
