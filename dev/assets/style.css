@@ -10,7 +10,9 @@ P {
     color: #c1c1c1
 }
 
-
+.tab.tab--selected {
+    background-color: #565656;
+}
 
 #app-container {
     display: flex;
@@ -19,7 +21,7 @@ P {
     align-items: stretch;
 }
 
-#graph-container {
+#content-container {
     flex: 1;
     background-color: #111111;
 }
@@ -30,6 +32,9 @@ P {
     width: 250px;
 }
 
+#count-map {
+    height: 100%;
+}
 #count-graph {
     height: 100%;
 }
