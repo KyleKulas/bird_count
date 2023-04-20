@@ -26,6 +26,8 @@ months = [
     'Oct',
     'Nov',
     'Dec']
+df['month'] = pd.Categorical(df['month'], months)
+df = df.sort_values(['year', 'month'])
 
 app = Dash(__name__)
 
@@ -49,7 +51,7 @@ app.layout = html.Div(
                     dcc.Dropdown(
                         id="species-dropdown",
                         options=sorted(df["species"].unique()),
-                        value="Total Bird Count",
+                        value="Total Species Count",
                         clearable=False,
                     ),
                 ])
@@ -115,7 +117,7 @@ def update_map(species):
     Input("species-dropdown", "value")
 )
 def update_graph(species):
-    dff = df[df['species'] == species].groupby(['species','year','month']).sum('count').reset_index()
+    dff = df[(df['species']== species) & (df['id']=='ALL')].copy()
     dff['month'] = pd.Categorical(dff['month'], months)
     dff = dff.sort_values("month")
 

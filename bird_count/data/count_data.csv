@@ -1,24 +1,4 @@
 ,id,count,date,year,month,species
-0,OE,7,Jan-2022,2022,Jan,Total Species Count
-1,WD,5,Jan-2022,2022,Jan,Total Species Count
-2,SR,8,Jan-2022,2022,Jan,Total Species Count
-3,TD1,6,Jan-2022,2022,Jan,Total Species Count
-4,TD2,9,Jan-2022,2022,Jan,Total Species Count
-5,TD3,4,Jan-2022,2022,Jan,Total Species Count
-6,EF1,12,Jan-2022,2022,Jan,Total Species Count
-7,EF2,6,Jan-2022,2022,Jan,Total Species Count
-8,CC,9,Jan-2022,2022,Jan,Total Species Count
-9,CS,13,Jan-2022,2022,Jan,Total Species Count
-10,EC,6,Jan-2022,2022,Jan,Total Species Count
-11,EM,11,Jan-2022,2022,Jan,Total Species Count
-12,BP,18,Jan-2022,2022,Jan,Total Species Count
-13,NF1,10,Jan-2022,2022,Jan,Total Species Count
-14,NF2,11,Jan-2022,2022,Jan,Total Species Count
-15,SA,16,Jan-2022,2022,Jan,Total Species Count
-16,IM,0,Jan-2022,2022,Jan,Total Species Count
-17,MC1,19,Jan-2022,2022,Jan,Total Species Count
-18,MC2,5,Jan-2022,2022,Jan,Total Species Count
-19,DW,22,Jan-2022,2022,Jan,Total Species Count
 0,OE,0,Jan-2022,2022,Jan,Accipiter sp.
 1,WD,0,Jan-2022,2022,Jan,Accipiter sp.
 2,SR,0,Jan-2022,2022,Jan,Accipiter sp.
@@ -979,26 +959,6 @@
 17,MC1,0,Jan-2022,2022,Jan,Steller's Jay
 18,MC2,0,Jan-2022,2022,Jan,Steller's Jay
 19,DW,7,Jan-2022,2022,Jan,Steller's Jay
-0,OE,36,Jan-2022,2022,Jan,Total Bird Count
-1,WD,173,Jan-2022,2022,Jan,Total Bird Count
-2,SR,16,Jan-2022,2022,Jan,Total Bird Count
-3,TD1,12,Jan-2022,2022,Jan,Total Bird Count
-4,TD2,24,Jan-2022,2022,Jan,Total Bird Count
-5,TD3,35,Jan-2022,2022,Jan,Total Bird Count
-6,EF1,264,Jan-2022,2022,Jan,Total Bird Count
-7,EF2,9,Jan-2022,2022,Jan,Total Bird Count
-8,CC,256,Jan-2022,2022,Jan,Total Bird Count
-9,CS,207,Jan-2022,2022,Jan,Total Bird Count
-10,EC,103,Jan-2022,2022,Jan,Total Bird Count
-11,EM,112,Jan-2022,2022,Jan,Total Bird Count
-12,BP,203,Jan-2022,2022,Jan,Total Bird Count
-13,NF1,27,Jan-2022,2022,Jan,Total Bird Count
-14,NF2,34,Jan-2022,2022,Jan,Total Bird Count
-15,SA,243,Jan-2022,2022,Jan,Total Bird Count
-16,IM,0,Jan-2022,2022,Jan,Total Bird Count
-17,MC1,404,Jan-2022,2022,Jan,Total Bird Count
-18,MC2,36,Jan-2022,2022,Jan,Total Bird Count
-19,DW,199,Jan-2022,2022,Jan,Total Bird Count
 0,OE,0,Jan-2022,2022,Jan,Trumpeter Swan
 1,WD,0,Jan-2022,2022,Jan,Trumpeter Swan
 2,SR,0,Jan-2022,2022,Jan,Trumpeter Swan
@@ -1059,26 +1019,6 @@
 17,MC1,0,Jan-2022,2022,Jan,Winter Wren (Pacific)
 18,MC2,0,Jan-2022,2022,Jan,Winter Wren (Pacific)
 19,DW,0,Jan-2022,2022,Jan,Winter Wren (Pacific)
-0,OE,5,Feb-2022,2022,Feb,Total Species Count
-1,WD,3,Feb-2022,2022,Feb,Total Species Count
-2,SR,11,Feb-2022,2022,Feb,Total Species Count
-3,TD1,0,Feb-2022,2022,Feb,Total Species Count
-4,TD2,8,Feb-2022,2022,Feb,Total Species Count
-5,TD3,3,Feb-2022,2022,Feb,Total Species Count
-6,EF1,14,Feb-2022,2022,Feb,Total Species Count
-7,EF2,11,Feb-2022,2022,Feb,Total Species Count
-8,CC,14,Feb-2022,2022,Feb,Total Species Count
-9,CS,9,Feb-2022,2022,Feb,Total Species Count
-10,EC,3,Feb-2022,2022,Feb,Total Species Count
-11,EM,6,Feb-2022,2022,Feb,Total Species Count
-12,BP,20,Feb-2022,2022,Feb,Total Species Count
-13,NF1,3,Feb-2022,2022,Feb,Total Species Count
-14,NF2,6,Feb-2022,2022,Feb,Total Species Count
-15,SA,7,Feb-2022,2022,Feb,Total Species Count
-16,IM,6,Feb-2022,2022,Feb,Total Species Count
-17,MC1,16,Feb-2022,2022,Feb,Total Species Count
-18,MC2,4,Feb-2022,2022,Feb,Total Species Count
-19,DW,15,Feb-2022,2022,Feb,Total Species Count
 0,OE,0,Feb-2022,2022,Feb,American Dipper
 1,WD,0,Feb-2022,2022,Feb,American Dipper
 2,SR,0,Feb-2022,2022,Feb,American Dipper
@@ -1939,26 +1879,6 @@
 17,MC1,0,Feb-2022,2022,Feb,Steller's Jay
 18,MC2,0,Feb-2022,2022,Feb,Steller's Jay
 19,DW,9,Feb-2022,2022,Feb,Steller's Jay
-0,OE,14,Feb-2022,2022,Feb,Total Bird Count
-1,WD,4,Feb-2022,2022,Feb,Total Bird Count
-2,SR,143,Feb-2022,2022,Feb,Total Bird Count
-3,TD1,0,Feb-2022,2022,Feb,Total Bird Count
-4,TD2,74,Feb-2022,2022,Feb,Total Bird Count
-5,TD3,3,Feb-2022,2022,Feb,Total Bird Count
-6,EF1,267,Feb-2022,2022,Feb,Total Bird Count
-7,EF2,30,Feb-2022,2022,Feb,Total Bird Count
-8,CC,146,Feb-2022,2022,Feb,Total Bird Count
-9,CS,59,Feb-2022,2022,Feb,Total Bird Count
-10,EC,23,Feb-2022,2022,Feb,Total Bird Count
-11,EM,122,Feb-2022,2022,Feb,Total Bird Count
-12,BP,147,Feb-2022,2022,Feb,Total Bird Count
-13,NF1,3,Feb-2022,2022,Feb,Total Bird Count
-14,NF2,13,Feb-2022,2022,Feb,Total Bird Count
-15,SA,18,Feb-2022,2022,Feb,Total Bird Count
-16,IM,14,Feb-2022,2022,Feb,Total Bird Count
-17,MC1,104,Feb-2022,2022,Feb,Total Bird Count
-18,MC2,26,Feb-2022,2022,Feb,Total Bird Count
-19,DW,88,Feb-2022,2022,Feb,Total Bird Count
 0,OE,0,Feb-2022,2022,Feb,Varied Thrush
 1,WD,0,Feb-2022,2022,Feb,Varied Thrush
 2,SR,0,Feb-2022,2022,Feb,Varied Thrush
@@ -1979,26 +1899,6 @@
 17,MC1,0,Feb-2022,2022,Feb,Varied Thrush
 18,MC2,0,Feb-2022,2022,Feb,Varied Thrush
 19,DW,1,Feb-2022,2022,Feb,Varied Thrush
-0,OE,6,Mar-2022,2022,Mar,Total Species Count
-1,WD,12,Mar-2022,2022,Mar,Total Species Count
-2,SR,17,Mar-2022,2022,Mar,Total Species Count
-3,TD1,3,Mar-2022,2022,Mar,Total Species Count
-4,TD2,8,Mar-2022,2022,Mar,Total Species Count
-5,TD3,7,Mar-2022,2022,Mar,Total Species Count
-6,EF1,20,Mar-2022,2022,Mar,Total Species Count
-7,EF2,6,Mar-2022,2022,Mar,Total Species Count
-8,CC,12,Mar-2022,2022,Mar,Total Species Count
-9,CS,18,Mar-2022,2022,Mar,Total Species Count
-10,EC,5,Mar-2022,2022,Mar,Total Species Count
-11,EM,14,Mar-2022,2022,Mar,Total Species Count
-12,BP,21,Mar-2022,2022,Mar,Total Species Count
-13,NF1,7,Mar-2022,2022,Mar,Total Species Count
-14,NF2,10,Mar-2022,2022,Mar,Total Species Count
-15,SA,14,Mar-2022,2022,Mar,Total Species Count
-16,IM,5,Mar-2022,2022,Mar,Total Species Count
-17,MC1,26,Mar-2022,2022,Mar,Total Species Count
-18,MC2,8,Mar-2022,2022,Mar,Total Species Count
-19,DW,17,Mar-2022,2022,Mar,Total Species Count
 0,OE,0,Mar-2022,2022,Mar,American Robin
 1,WD,2,Mar-2022,2022,Mar,American Robin
 2,SR,0,Mar-2022,2022,Mar,American Robin
@@ -2939,26 +2839,6 @@
 17,MC1,2,Mar-2022,2022,Mar,Steller's Jay
 18,MC2,0,Mar-2022,2022,Mar,Steller's Jay
 19,DW,10,Mar-2022,2022,Mar,Steller's Jay
-0,OE,27,Mar-2022,2022,Mar,Total Bird Count
-1,WD,40,Mar-2022,2022,Mar,Total Bird Count
-2,SR,351,Mar-2022,2022,Mar,Total Bird Count
-3,TD1,6,Mar-2022,2022,Mar,Total Bird Count
-4,TD2,19,Mar-2022,2022,Mar,Total Bird Count
-5,TD3,22,Mar-2022,2022,Mar,Total Bird Count
-6,EF1,179,Mar-2022,2022,Mar,Total Bird Count
-7,EF2,11,Mar-2022,2022,Mar,Total Bird Count
-8,CC,259,Mar-2022,2022,Mar,Total Bird Count
-9,CS,184,Mar-2022,2022,Mar,Total Bird Count
-10,EC,13,Mar-2022,2022,Mar,Total Bird Count
-11,EM,149,Mar-2022,2022,Mar,Total Bird Count
-12,BP,174,Mar-2022,2022,Mar,Total Bird Count
-13,NF1,7,Mar-2022,2022,Mar,Total Bird Count
-14,NF2,50,Mar-2022,2022,Mar,Total Bird Count
-15,SA,80,Mar-2022,2022,Mar,Total Bird Count
-16,IM,11,Mar-2022,2022,Mar,Total Bird Count
-17,MC1,175,Mar-2022,2022,Mar,Total Bird Count
-18,MC2,46,Mar-2022,2022,Mar,Total Bird Count
-19,DW,115,Mar-2022,2022,Mar,Total Bird Count
 0,OE,0,Mar-2022,2022,Mar,Varied Thrush
 1,WD,1,Mar-2022,2022,Mar,Varied Thrush
 2,SR,0,Mar-2022,2022,Mar,Varied Thrush
@@ -3039,26 +2919,6 @@
 17,MC1,0,Mar-2022,2022,Mar,Yellow-rumped Warbler
 18,MC2,0,Mar-2022,2022,Mar,Yellow-rumped Warbler
 19,DW,0,Mar-2022,2022,Mar,Yellow-rumped Warbler
-0,OE,10,Apr-2022,2022,Apr,Total Species Count
-1,WD,6,Apr-2022,2022,Apr,Total Species Count
-2,SR,13,Apr-2022,2022,Apr,Total Species Count
-3,TD1,8,Apr-2022,2022,Apr,Total Species Count
-4,TD2,17,Apr-2022,2022,Apr,Total Species Count
-5,TD3,13,Apr-2022,2022,Apr,Total Species Count
-6,EF1,25,Apr-2022,2022,Apr,Total Species Count
-7,EF2,23,Apr-2022,2022,Apr,Total Species Count
-8,CC,12,Apr-2022,2022,Apr,Total Species Count
-9,CS,25,Apr-2022,2022,Apr,Total Species Count
-10,EC,8,Apr-2022,2022,Apr,Total Species Count
-11,EM,18,Apr-2022,2022,Apr,Total Species Count
-12,BP,30,Apr-2022,2022,Apr,Total Species Count
-13,NF1,6,Apr-2022,2022,Apr,Total Species Count
-14,NF2,20,Apr-2022,2022,Apr,Total Species Count
-15,SA,31,Apr-2022,2022,Apr,Total Species Count
-16,IM,11,Apr-2022,2022,Apr,Total Species Count
-17,MC1,26,Apr-2022,2022,Apr,Total Species Count
-18,MC2,17,Apr-2022,2022,Apr,Total Species Count
-19,DW,22,Apr-2022,2022,Apr,Total Species Count
 0,OE,0,Apr-2022,2022,Apr,American Coot
 1,WD,0,Apr-2022,2022,Apr,American Coot
 2,SR,0,Apr-2022,2022,Apr,American Coot
@@ -4419,26 +4279,6 @@
 17,MC1,0,Apr-2022,2022,Apr,Swallow sp.
 18,MC2,0,Apr-2022,2022,Apr,Swallow sp.
 19,DW,0,Apr-2022,2022,Apr,Swallow sp.
-0,OE,172,Apr-2022,2022,Apr,Total Bird Count
-1,WD,27,Apr-2022,2022,Apr,Total Bird Count
-2,SR,108,Apr-2022,2022,Apr,Total Bird Count
-3,TD1,18,Apr-2022,2022,Apr,Total Bird Count
-4,TD2,59,Apr-2022,2022,Apr,Total Bird Count
-5,TD3,32,Apr-2022,2022,Apr,Total Bird Count
-6,EF1,130,Apr-2022,2022,Apr,Total Bird Count
-7,EF2,131,Apr-2022,2022,Apr,Total Bird Count
-8,CC,195,Apr-2022,2022,Apr,Total Bird Count
-9,CS,236,Apr-2022,2022,Apr,Total Bird Count
-10,EC,30,Apr-2022,2022,Apr,Total Bird Count
-11,EM,90,Apr-2022,2022,Apr,Total Bird Count
-12,BP,210,Apr-2022,2022,Apr,Total Bird Count
-13,NF1,7,Apr-2022,2022,Apr,Total Bird Count
-14,NF2,83,Apr-2022,2022,Apr,Total Bird Count
-15,SA,345,Apr-2022,2022,Apr,Total Bird Count
-16,IM,31,Apr-2022,2022,Apr,Total Bird Count
-17,MC1,274,Apr-2022,2022,Apr,Total Bird Count
-18,MC2,101,Apr-2022,2022,Apr,Total Bird Count
-19,DW,167,Apr-2022,2022,Apr,Total Bird Count
 0,OE,0,Apr-2022,2022,Apr,Townsend's Solitaire
 1,WD,0,Apr-2022,2022,Apr,Townsend's Solitaire
 2,SR,0,Apr-2022,2022,Apr,Townsend's Solitaire
@@ -4639,26 +4479,6 @@
 17,MC1,3,Apr-2022,2022,Apr,Yellow-rumped Warbler
 18,MC2,1,Apr-2022,2022,Apr,Yellow-rumped Warbler
 19,DW,4,Apr-2022,2022,Apr,Yellow-rumped Warbler
-0,OE,3,May-2022,2022,May,Total Species Count
-1,WD,5,May-2022,2022,May,Total Species Count
-2,SR,20,May-2022,2022,May,Total Species Count
-3,TD1,9,May-2022,2022,May,Total Species Count
-4,TD2,15,May-2022,2022,May,Total Species Count
-5,TD3,15,May-2022,2022,May,Total Species Count
-6,EF1,35,May-2022,2022,May,Total Species Count
-7,EF2,24,May-2022,2022,May,Total Species Count
-8,CC,25,May-2022,2022,May,Total Species Count
-9,CS,13,May-2022,2022,May,Total Species Count
-10,EC,11,May-2022,2022,May,Total Species Count
-11,EM,19,May-2022,2022,May,Total Species Count
-12,BP,31,May-2022,2022,May,Total Species Count
-13,NF1,7,May-2022,2022,May,Total Species Count
-14,NF2,13,May-2022,2022,May,Total Species Count
-15,SA,31,May-2022,2022,May,Total Species Count
-16,IM,14,May-2022,2022,May,Total Species Count
-17,MC1,31,May-2022,2022,May,Total Species Count
-18,MC2,18,May-2022,2022,May,Total Species Count
-19,DW,20,May-2022,2022,May,Total Species Count
 0,OE,0,May-2022,2022,May,American Goldfinch
 1,WD,0,May-2022,2022,May,American Goldfinch
 2,SR,0,May-2022,2022,May,American Goldfinch
@@ -6199,26 +6019,6 @@
 17,MC1,0,May-2022,2022,May,Swainson's Thrush
 18,MC2,0,May-2022,2022,May,Swainson's Thrush
 19,DW,0,May-2022,2022,May,Swainson's Thrush
-0,OE,8,May-2022,2022,May,Total Bird Count
-1,WD,15,May-2022,2022,May,Total Bird Count
-2,SR,56,May-2022,2022,May,Total Bird Count
-3,TD1,19,May-2022,2022,May,Total Bird Count
-4,TD2,25,May-2022,2022,May,Total Bird Count
-5,TD3,26,May-2022,2022,May,Total Bird Count
-6,EF1,172,May-2022,2022,May,Total Bird Count
-7,EF2,53,May-2022,2022,May,Total Bird Count
-8,CC,252,May-2022,2022,May,Total Bird Count
-9,CS,57,May-2022,2022,May,Total Bird Count
-10,EC,41,May-2022,2022,May,Total Bird Count
-11,EM,120,May-2022,2022,May,Total Bird Count
-12,BP,228,May-2022,2022,May,Total Bird Count
-13,NF1,15,May-2022,2022,May,Total Bird Count
-14,NF2,59,May-2022,2022,May,Total Bird Count
-15,SA,111,May-2022,2022,May,Total Bird Count
-16,IM,48,May-2022,2022,May,Total Bird Count
-17,MC1,211,May-2022,2022,May,Total Bird Count
-18,MC2,61,May-2022,2022,May,Total Bird Count
-19,DW,64,May-2022,2022,May,Total Bird Count
 0,OE,0,May-2022,2022,May,Townsend's Solitaire
 1,WD,0,May-2022,2022,May,Townsend's Solitaire
 2,SR,0,May-2022,2022,May,Townsend's Solitaire
@@ -6519,26 +6319,6 @@
 17,MC1,0,May-2022,2022,May,Yellow-rumped Warbler
 18,MC2,4,May-2022,2022,May,Yellow-rumped Warbler
 19,DW,4,May-2022,2022,May,Yellow-rumped Warbler
-0,OE,3,Jun-2022,2022,Jun,Total Species Count
-1,WD,8,Jun-2022,2022,Jun,Total Species Count
-2,SR,9,Jun-2022,2022,Jun,Total Species Count
-3,TD1,7,Jun-2022,2022,Jun,Total Species Count
-4,TD2,17,Jun-2022,2022,Jun,Total Species Count
-5,TD3,21,Jun-2022,2022,Jun,Total Species Count
-6,EF1,32,Jun-2022,2022,Jun,Total Species Count
-7,EF2,14,Jun-2022,2022,Jun,Total Species Count
-8,CC,16,Jun-2022,2022,Jun,Total Species Count
-9,CS,16,Jun-2022,2022,Jun,Total Species Count
-10,EC,9,Jun-2022,2022,Jun,Total Species Count
-11,EM,18,Jun-2022,2022,Jun,Total Species Count
-12,BP,35,Jun-2022,2022,Jun,Total Species Count
-13,NF1,6,Jun-2022,2022,Jun,Total Species Count
-14,NF2,12,Jun-2022,2022,Jun,Total Species Count
-15,SA,22,Jun-2022,2022,Jun,Total Species Count
-16,IM,10,Jun-2022,2022,Jun,Total Species Count
-17,MC1,30,Jun-2022,2022,Jun,Total Species Count
-18,MC2,15,Jun-2022,2022,Jun,Total Species Count
-19,DW,16,Jun-2022,2022,Jun,Total Species Count
 0,OE,0,Jun-2022,2022,Jun,American Goldfinch
 1,WD,0,Jun-2022,2022,Jun,American Goldfinch
 2,SR,0,Jun-2022,2022,Jun,American Goldfinch
@@ -7699,26 +7479,6 @@
 17,MC1,0,Jun-2022,2022,Jun,Swallow sp.
 18,MC2,0,Jun-2022,2022,Jun,Swallow sp.
 19,DW,0,Jun-2022,2022,Jun,Swallow sp.
-0,OE,13,Jun-2022,2022,Jun,Total Bird Count
-1,WD,12,Jun-2022,2022,Jun,Total Bird Count
-2,SR,21,Jun-2022,2022,Jun,Total Bird Count
-3,TD1,15,Jun-2022,2022,Jun,Total Bird Count
-4,TD2,78,Jun-2022,2022,Jun,Total Bird Count
-5,TD3,81,Jun-2022,2022,Jun,Total Bird Count
-6,EF1,126,Jun-2022,2022,Jun,Total Bird Count
-7,EF2,44,Jun-2022,2022,Jun,Total Bird Count
-8,CC,116,Jun-2022,2022,Jun,Total Bird Count
-9,CS,50,Jun-2022,2022,Jun,Total Bird Count
-10,EC,62,Jun-2022,2022,Jun,Total Bird Count
-11,EM,166,Jun-2022,2022,Jun,Total Bird Count
-12,BP,222,Jun-2022,2022,Jun,Total Bird Count
-13,NF1,28,Jun-2022,2022,Jun,Total Bird Count
-14,NF2,47,Jun-2022,2022,Jun,Total Bird Count
-15,SA,62,Jun-2022,2022,Jun,Total Bird Count
-16,IM,25,Jun-2022,2022,Jun,Total Bird Count
-17,MC1,240,Jun-2022,2022,Jun,Total Bird Count
-18,MC2,33,Jun-2022,2022,Jun,Total Bird Count
-19,DW,56,Jun-2022,2022,Jun,Total Bird Count
 0,OE,0,Jun-2022,2022,Jun,Townsend's Warbler
 1,WD,0,Jun-2022,2022,Jun,Townsend's Warbler
 2,SR,0,Jun-2022,2022,Jun,Townsend's Warbler
@@ -8059,26 +7819,6 @@
 17,MC1,0,Jun-2022,2022,Jun,Yellow-rumped Warbler
 18,MC2,0,Jun-2022,2022,Jun,Yellow-rumped Warbler
 19,DW,0,Jun-2022,2022,Jun,Yellow-rumped Warbler
-0,OE,2,Jul-2022,2022,Jul,Total Species Count
-1,WD,6,Jul-2022,2022,Jul,Total Species Count
-2,SR,13,Jul-2022,2022,Jul,Total Species Count
-3,TD1,7,Jul-2022,2022,Jul,Total Species Count
-4,TD2,15,Jul-2022,2022,Jul,Total Species Count
-5,TD3,10,Jul-2022,2022,Jul,Total Species Count
-6,EF1,24,Jul-2022,2022,Jul,Total Species Count
-7,EF2,20,Jul-2022,2022,Jul,Total Species Count
-8,CC,25,Jul-2022,2022,Jul,Total Species Count
-9,CS,20,Jul-2022,2022,Jul,Total Species Count
-10,EC,4,Jul-2022,2022,Jul,Total Species Count
-11,EM,25,Jul-2022,2022,Jul,Total Species Count
-12,BP,36,Jul-2022,2022,Jul,Total Species Count
-13,NF1,13,Jul-2022,2022,Jul,Total Species Count
-14,NF2,15,Jul-2022,2022,Jul,Total Species Count
-15,SA,16,Jul-2022,2022,Jul,Total Species Count
-16,IM,11,Jul-2022,2022,Jul,Total Species Count
-17,MC1,30,Jul-2022,2022,Jul,Total Species Count
-18,MC2,12,Jul-2022,2022,Jul,Total Species Count
-19,DW,18,Jul-2022,2022,Jul,Total Species Count
 0,OE,0,Jul-2022,2022,Jul,American Crow
 1,WD,0,Jul-2022,2022,Jul,American Crow
 2,SR,0,Jul-2022,2022,Jul,American Crow
@@ -9219,26 +8959,6 @@
 17,MC1,17,Jul-2022,2022,Jul,Swainson's Thrush
 18,MC2,5,Jul-2022,2022,Jul,Swainson's Thrush
 19,DW,7,Jul-2022,2022,Jul,Swainson's Thrush
-0,OE,2,Jul-2022,2022,Jul,Total Bird Count
-1,WD,8,Jul-2022,2022,Jul,Total Bird Count
-2,SR,38,Jul-2022,2022,Jul,Total Bird Count
-3,TD1,16,Jul-2022,2022,Jul,Total Bird Count
-4,TD2,94,Jul-2022,2022,Jul,Total Bird Count
-5,TD3,41,Jul-2022,2022,Jul,Total Bird Count
-6,EF1,179,Jul-2022,2022,Jul,Total Bird Count
-7,EF2,105,Jul-2022,2022,Jul,Total Bird Count
-8,CC,318,Jul-2022,2022,Jul,Total Bird Count
-9,CS,71,Jul-2022,2022,Jul,Total Bird Count
-10,EC,25,Jul-2022,2022,Jul,Total Bird Count
-11,EM,108,Jul-2022,2022,Jul,Total Bird Count
-12,BP,224,Jul-2022,2022,Jul,Total Bird Count
-13,NF1,29,Jul-2022,2022,Jul,Total Bird Count
-14,NF2,55,Jul-2022,2022,Jul,Total Bird Count
-15,SA,67,Jul-2022,2022,Jul,Total Bird Count
-16,IM,39,Jul-2022,2022,Jul,Total Bird Count
-17,MC1,199,Jul-2022,2022,Jul,Total Bird Count
-18,MC2,35,Jul-2022,2022,Jul,Total Bird Count
-19,DW,52,Jul-2022,2022,Jul,Total Bird Count
 0,OE,0,Jul-2022,2022,Jul,Tree Swallow
 1,WD,0,Jul-2022,2022,Jul,Tree Swallow
 2,SR,0,Jul-2022,2022,Jul,Tree Swallow
@@ -9499,26 +9219,6 @@
 17,MC1,1,Jul-2022,2022,Jul,Yellow-rumped Warbler
 18,MC2,0,Jul-2022,2022,Jul,Yellow-rumped Warbler
 19,DW,0,Jul-2022,2022,Jul,Yellow-rumped Warbler
-0,OE,2,Aug-2022,2022,Aug,Total Species Count
-1,WD,7,Aug-2022,2022,Aug,Total Species Count
-2,SR,2,Aug-2022,2022,Aug,Total Species Count
-3,TD1,5,Aug-2022,2022,Aug,Total Species Count
-4,TD2,12,Aug-2022,2022,Aug,Total Species Count
-5,TD3,8,Aug-2022,2022,Aug,Total Species Count
-6,EF1,16,Aug-2022,2022,Aug,Total Species Count
-7,EF2,13,Aug-2022,2022,Aug,Total Species Count
-8,CC,6,Aug-2022,2022,Aug,Total Species Count
-9,CS,15,Aug-2022,2022,Aug,Total Species Count
-10,EC,3,Aug-2022,2022,Aug,Total Species Count
-11,EM,17,Aug-2022,2022,Aug,Total Species Count
-12,BP,17,Aug-2022,2022,Aug,Total Species Count
-13,NF1,14,Aug-2022,2022,Aug,Total Species Count
-14,NF2,14,Aug-2022,2022,Aug,Total Species Count
-15,SA,22,Aug-2022,2022,Aug,Total Species Count
-16,IM,6,Aug-2022,2022,Aug,Total Species Count
-17,MC1,22,Aug-2022,2022,Aug,Total Species Count
-18,MC2,8,Aug-2022,2022,Aug,Total Species Count
-19,DW,12,Aug-2022,2022,Aug,Total Species Count
 0,OE,0,Aug-2022,2022,Aug,American Crow
 1,WD,0,Aug-2022,2022,Aug,American Crow
 2,SR,0,Aug-2022,2022,Aug,American Crow
@@ -10159,26 +9859,6 @@
 17,MC1,0,Aug-2022,2022,Aug,Osprey
 18,MC2,0,Aug-2022,2022,Aug,Osprey
 19,DW,0,Aug-2022,2022,Aug,Osprey
-0,OE,6,Aug-2022,2022,Aug,Total Bird Count
-1,WD,21,Aug-2022,2022,Aug,Total Bird Count
-2,SR,1,Aug-2022,2022,Aug,Total Bird Count
-3,TD1,15,Aug-2022,2022,Aug,Total Bird Count
-4,TD2,17,Aug-2022,2022,Aug,Total Bird Count
-5,TD3,25,Aug-2022,2022,Aug,Total Bird Count
-6,EF1,112,Aug-2022,2022,Aug,Total Bird Count
-7,EF2,36,Aug-2022,2022,Aug,Total Bird Count
-8,CC,86,Aug-2022,2022,Aug,Total Bird Count
-9,CS,33,Aug-2022,2022,Aug,Total Bird Count
-10,EC,6,Aug-2022,2022,Aug,Total Bird Count
-11,EM,88,Aug-2022,2022,Aug,Total Bird Count
-12,BP,87,Aug-2022,2022,Aug,Total Bird Count
-13,NF1,24,Aug-2022,2022,Aug,Total Bird Count
-14,NF2,55,Aug-2022,2022,Aug,Total Bird Count
-15,SA,107,Aug-2022,2022,Aug,Total Bird Count
-16,IM,17,Aug-2022,2022,Aug,Total Bird Count
-17,MC1,201,Aug-2022,2022,Aug,Total Bird Count
-18,MC2,20,Aug-2022,2022,Aug,Total Bird Count
-19,DW,20,Aug-2022,2022,Aug,Total Bird Count
 0,OE,0,Aug-2022,2022,Aug,Pacific Wren
 1,WD,0,Aug-2022,2022,Aug,Pacific Wren
 2,SR,0,Aug-2022,2022,Aug,Pacific Wren
@@ -10679,26 +10359,6 @@
 17,MC1,3,Aug-2022,2022,Aug,Yellow Warbler
 18,MC2,0,Aug-2022,2022,Aug,Yellow Warbler
 19,DW,0,Aug-2022,2022,Aug,Yellow Warbler
-0,OE,3,Sept-2022,2022,Sept,Total Species Count
-1,WD,6,Sept-2022,2022,Sept,Total Species Count
-2,SR,7,Sept-2022,2022,Sept,Total Species Count
-3,TD1,6,Sept-2022,2022,Sept,Total Species Count
-4,TD2,11,Sept-2022,2022,Sept,Total Species Count
-5,TD3,2,Sept-2022,2022,Sept,Total Species Count
-6,EF1,18,Sept-2022,2022,Sept,Total Species Count
-7,EF2,18,Sept-2022,2022,Sept,Total Species Count
-8,CC,17,Sept-2022,2022,Sept,Total Species Count
-9,CS,19,Sept-2022,2022,Sept,Total Species Count
-10,EC,5,Sept-2022,2022,Sept,Total Species Count
-11,EM,10,Sept-2022,2022,Sept,Total Species Count
-12,BP,17,Sept-2022,2022,Sept,Total Species Count
-13,NF1,8,Sept-2022,2022,Sept,Total Species Count
-14,NF2,16,Sept-2022,2022,Sept,Total Species Count
-15,SA,11,Sept-2022,2022,Sept,Total Species Count
-16,IM,3,Sept-2022,2022,Sept,Total Species Count
-17,MC1,15,Sept-2022,2022,Sept,Total Species Count
-18,MC2,9,Sept-2022,2022,Sept,Total Species Count
-19,DW,14,Sept-2022,2022,Sept,Total Species Count
 0,OE,0,Sept-2022,2022,Sept,American Crow
 1,WD,0,Sept-2022,2022,Sept,American Crow
 2,SR,0,Sept-2022,2022,Sept,American Crow
@@ -11459,26 +11119,6 @@
 17,MC1,1,Sept-2022,2022,Sept,Osprey
 18,MC2,0,Sept-2022,2022,Sept,Osprey
 19,DW,0,Sept-2022,2022,Sept,Osprey
-0,OE,12,Sept-2022,2022,Sept,Total Bird Count
-1,WD,54,Sept-2022,2022,Sept,Total Bird Count
-2,SR,53,Sept-2022,2022,Sept,Total Bird Count
-3,TD1,57,Sept-2022,2022,Sept,Total Bird Count
-4,TD2,91,Sept-2022,2022,Sept,Total Bird Count
-5,TD3,3,Sept-2022,2022,Sept,Total Bird Count
-6,EF1,73,Sept-2022,2022,Sept,Total Bird Count
-7,EF2,67,Sept-2022,2022,Sept,Total Bird Count
-8,CC,145,Sept-2022,2022,Sept,Total Bird Count
-9,CS,71,Sept-2022,2022,Sept,Total Bird Count
-10,EC,12,Sept-2022,2022,Sept,Total Bird Count
-11,EM,136,Sept-2022,2022,Sept,Total Bird Count
-12,BP,50,Sept-2022,2022,Sept,Total Bird Count
-13,NF1,17,Sept-2022,2022,Sept,Total Bird Count
-14,NF2,44,Sept-2022,2022,Sept,Total Bird Count
-15,SA,29,Sept-2022,2022,Sept,Total Bird Count
-16,IM,5,Sept-2022,2022,Sept,Total Bird Count
-17,MC1,113,Sept-2022,2022,Sept,Total Bird Count
-18,MC2,91,Sept-2022,2022,Sept,Total Bird Count
-19,DW,176,Sept-2022,2022,Sept,Total Bird Count
 0,OE,0,Sept-2022,2022,Sept,Pacific Wren
 1,WD,0,Sept-2022,2022,Sept,Pacific Wren
 2,SR,0,Sept-2022,2022,Sept,Pacific Wren
@@ -11899,26 +11539,6 @@
 17,MC1,0,Sept-2022,2022,Sept,Yellow-rumped Warbler
 18,MC2,0,Sept-2022,2022,Sept,Yellow-rumped Warbler
 19,DW,0,Sept-2022,2022,Sept,Yellow-rumped Warbler
-0,OE,0,Oct-2022,2022,Oct,Total Species Count
-1,WD,3,Oct-2022,2022,Oct,Total Species Count
-2,SR,5,Oct-2022,2022,Oct,Total Species Count
-3,TD1,0,Oct-2022,2022,Oct,Total Species Count
-4,TD2,3,Oct-2022,2022,Oct,Total Species Count
-5,TD3,2,Oct-2022,2022,Oct,Total Species Count
-6,EF1,9,Oct-2022,2022,Oct,Total Species Count
-7,EF2,11,Oct-2022,2022,Oct,Total Species Count
-8,CC,13,Oct-2022,2022,Oct,Total Species Count
-9,CS,16,Oct-2022,2022,Oct,Total Species Count
-10,EC,14,Oct-2022,2022,Oct,Total Species Count
-11,EM,14,Oct-2022,2022,Oct,Total Species Count
-12,BP,18,Oct-2022,2022,Oct,Total Species Count
-13,NF1,9,Oct-2022,2022,Oct,Total Species Count
-14,NF2,20,Oct-2022,2022,Oct,Total Species Count
-15,SA,16,Oct-2022,2022,Oct,Total Species Count
-16,IM,10,Oct-2022,2022,Oct,Total Species Count
-17,MC1,18,Oct-2022,2022,Oct,Total Species Count
-18,MC2,11,Oct-2022,2022,Oct,Total Species Count
-19,DW,14,Oct-2022,2022,Oct,Total Species Count
 0,OE,0,Oct-2022,2022,Oct,American Coot
 1,WD,0,Oct-2022,2022,Oct,American Coot
 2,SR,0,Oct-2022,2022,Oct,American Coot
@@ -12559,26 +12179,6 @@
 17,MC1,0,Oct-2022,2022,Oct,Northern Pintail
 18,MC2,0,Oct-2022,2022,Oct,Northern Pintail
 19,DW,0,Oct-2022,2022,Oct,Northern Pintail
-0,OE,0,Oct-2022,2022,Oct,Total Bird Count
-1,WD,8,Oct-2022,2022,Oct,Total Bird Count
-2,SR,68,Oct-2022,2022,Oct,Total Bird Count
-3,TD1,0,Oct-2022,2022,Oct,Total Bird Count
-4,TD2,12,Oct-2022,2022,Oct,Total Bird Count
-5,TD3,2,Oct-2022,2022,Oct,Total Bird Count
-6,EF1,53,Oct-2022,2022,Oct,Total Bird Count
-7,EF2,38,Oct-2022,2022,Oct,Total Bird Count
-8,CC,100,Oct-2022,2022,Oct,Total Bird Count
-9,CS,43,Oct-2022,2022,Oct,Total Bird Count
-10,EC,69,Oct-2022,2022,Oct,Total Bird Count
-11,EM,84,Oct-2022,2022,Oct,Total Bird Count
-12,BP,122,Oct-2022,2022,Oct,Total Bird Count
-13,NF1,22,Oct-2022,2022,Oct,Total Bird Count
-14,NF2,82,Oct-2022,2022,Oct,Total Bird Count
-15,SA,61,Oct-2022,2022,Oct,Total Bird Count
-16,IM,27,Oct-2022,2022,Oct,Total Bird Count
-17,MC1,152,Oct-2022,2022,Oct,Total Bird Count
-18,MC2,44,Oct-2022,2022,Oct,Total Bird Count
-19,DW,126,Oct-2022,2022,Oct,Total Bird Count
 0,OE,0,Oct-2022,2022,Oct,Pacific Wren
 1,WD,0,Oct-2022,2022,Oct,Pacific Wren
 2,SR,0,Oct-2022,2022,Oct,Pacific Wren
@@ -12999,26 +12599,6 @@
 17,MC1,0,Oct-2022,2022,Oct,Yellow-rumped Warbler
 18,MC2,0,Oct-2022,2022,Oct,Yellow-rumped Warbler
 19,DW,0,Oct-2022,2022,Oct,Yellow-rumped Warbler
-0,OE,8,Nov-2022,2022,Nov,Total Species Count
-1,WD,4,Nov-2022,2022,Nov,Total Species Count
-2,SR,14,Nov-2022,2022,Nov,Total Species Count
-3,TD1,4,Nov-2022,2022,Nov,Total Species Count
-4,TD2,8,Nov-2022,2022,Nov,Total Species Count
-5,TD3,8,Nov-2022,2022,Nov,Total Species Count
-6,EF1,14,Nov-2022,2022,Nov,Total Species Count
-7,EF2,14,Nov-2022,2022,Nov,Total Species Count
-8,CC,11,Nov-2022,2022,Nov,Total Species Count
-9,CS,8,Nov-2022,2022,Nov,Total Species Count
-10,EC,5,Nov-2022,2022,Nov,Total Species Count
-11,EM,15,Nov-2022,2022,Nov,Total Species Count
-12,BP,18,Nov-2022,2022,Nov,Total Species Count
-13,NF1,0,Nov-2022,2022,Nov,Total Species Count
-14,NF2,0,Nov-2022,2022,Nov,Total Species Count
-15,SA,0,Nov-2022,2022,Nov,Total Species Count
-16,IM,2,Nov-2022,2022,Nov,Total Species Count
-17,MC1,24,Nov-2022,2022,Nov,Total Species Count
-18,MC2,18,Nov-2022,2022,Nov,Total Species Count
-19,DW,18,Nov-2022,2022,Nov,Total Species Count
 0,OE,0,Nov-2022,2022,Nov,American Crow
 1,WD,0,Nov-2022,2022,Nov,American Crow
 2,SR,1,Nov-2022,2022,Nov,American Crow
@@ -13739,26 +13319,6 @@
 17,MC1,0,Nov-2022,2022,Nov,Northern Shrike
 18,MC2,0,Nov-2022,2022,Nov,Northern Shrike
 19,DW,0,Nov-2022,2022,Nov,Northern Shrike
-0,OE,43,Nov-2022,2022,Nov,Total Bird Count
-1,WD,7,Nov-2022,2022,Nov,Total Bird Count
-2,SR,183,Nov-2022,2022,Nov,Total Bird Count
-3,TD1,4,Nov-2022,2022,Nov,Total Bird Count
-4,TD2,28,Nov-2022,2022,Nov,Total Bird Count
-5,TD3,20,Nov-2022,2022,Nov,Total Bird Count
-6,EF1,58,Nov-2022,2022,Nov,Total Bird Count
-7,EF2,37,Nov-2022,2022,Nov,Total Bird Count
-8,CC,65,Nov-2022,2022,Nov,Total Bird Count
-9,CS,119,Nov-2022,2022,Nov,Total Bird Count
-10,EC,18,Nov-2022,2022,Nov,Total Bird Count
-11,EM,50,Nov-2022,2022,Nov,Total Bird Count
-12,BP,92,Nov-2022,2022,Nov,Total Bird Count
-13,NF1,0,Nov-2022,2022,Nov,Total Bird Count
-14,NF2,0,Nov-2022,2022,Nov,Total Bird Count
-15,SA,0,Nov-2022,2022,Nov,Total Bird Count
-16,IM,2,Nov-2022,2022,Nov,Total Bird Count
-17,MC1,258,Nov-2022,2022,Nov,Total Bird Count
-18,MC2,145,Nov-2022,2022,Nov,Total Bird Count
-19,DW,134,Nov-2022,2022,Nov,Total Bird Count
 0,OE,0,Nov-2022,2022,Nov,Pacific Wren
 1,WD,0,Nov-2022,2022,Nov,Pacific Wren
 2,SR,0,Nov-2022,2022,Nov,Pacific Wren
@@ -14099,26 +13659,6 @@
 17,MC1,0,Nov-2022,2022,Nov,Virginia Rail
 18,MC2,0,Nov-2022,2022,Nov,Virginia Rail
 19,DW,0,Nov-2022,2022,Nov,Virginia Rail
-0,OE,7,Dec-2022,2022,Dec,Total Species Count
-1,WD,3,Dec-2022,2022,Dec,Total Species Count
-2,SR,12,Dec-2022,2022,Dec,Total Species Count
-3,TD1,3,Dec-2022,2022,Dec,Total Species Count
-4,TD2,13,Dec-2022,2022,Dec,Total Species Count
-5,TD3,8,Dec-2022,2022,Dec,Total Species Count
-6,EF1,9,Dec-2022,2022,Dec,Total Species Count
-7,EF2,20,Dec-2022,2022,Dec,Total Species Count
-8,CC,18,Dec-2022,2022,Dec,Total Species Count
-9,CS,11,Dec-2022,2022,Dec,Total Species Count
-10,EC,6,Dec-2022,2022,Dec,Total Species Count
-11,EM,9,Dec-2022,2022,Dec,Total Species Count
-12,BP,23,Dec-2022,2022,Dec,Total Species Count
-13,NF1,5,Dec-2022,2022,Dec,Total Species Count
-14,NF2,9,Dec-2022,2022,Dec,Total Species Count
-15,SA,21,Dec-2022,2022,Dec,Total Species Count
-16,IM,0,Dec-2022,2022,Dec,Total Species Count
-17,MC1,16,Dec-2022,2022,Dec,Total Species Count
-18,MC2,7,Dec-2022,2022,Dec,Total Species Count
-19,DW,21,Dec-2022,2022,Dec,Total Species Count
 0,OE,0,Dec-2022,2022,Dec,American Coot
 1,WD,0,Dec-2022,2022,Dec,American Coot
 2,SR,0,Dec-2022,2022,Dec,American Coot
@@ -14819,26 +14359,6 @@
 17,MC1,0,Dec-2022,2022,Dec,Northern Pintail
 18,MC2,0,Dec-2022,2022,Dec,Northern Pintail
 19,DW,0,Dec-2022,2022,Dec,Northern Pintail
-0,OE,21,Dec-2022,2022,Dec,Total Bird Count
-1,WD,2,Dec-2022,2022,Dec,Total Bird Count
-2,SR,121,Dec-2022,2022,Dec,Total Bird Count
-3,TD1,5,Dec-2022,2022,Dec,Total Bird Count
-4,TD2,27,Dec-2022,2022,Dec,Total Bird Count
-5,TD3,22,Dec-2022,2022,Dec,Total Bird Count
-6,EF1,43,Dec-2022,2022,Dec,Total Bird Count
-7,EF2,75,Dec-2022,2022,Dec,Total Bird Count
-8,CC,616,Dec-2022,2022,Dec,Total Bird Count
-9,CS,157,Dec-2022,2022,Dec,Total Bird Count
-10,EC,40,Dec-2022,2022,Dec,Total Bird Count
-11,EM,34,Dec-2022,2022,Dec,Total Bird Count
-12,BP,92,Dec-2022,2022,Dec,Total Bird Count
-13,NF1,8,Dec-2022,2022,Dec,Total Bird Count
-14,NF2,58,Dec-2022,2022,Dec,Total Bird Count
-15,SA,209,Dec-2022,2022,Dec,Total Bird Count
-16,IM,0,Dec-2022,2022,Dec,Total Bird Count
-17,MC1,286,Dec-2022,2022,Dec,Total Bird Count
-18,MC2,27,Dec-2022,2022,Dec,Total Bird Count
-19,DW,83,Dec-2022,2022,Dec,Total Bird Count
 0,OE,0,Dec-2022,2022,Dec,Pacific Wren
 1,WD,0,Dec-2022,2022,Dec,Pacific Wren
 2,SR,0,Dec-2022,2022,Dec,Pacific Wren
@@ -15259,3 +14779,1246 @@
 17,MC1,0,Dec-2022,2022,Dec,Western Grebe
 18,MC2,0,Dec-2022,2022,Dec,Western Grebe
 19,DW,0,Dec-2022,2022,Dec,Western Grebe
+0,BP,210,Apr-2022,2022,Apr,Total Bird Count
+1,BP,87,Aug-2022,2022,Aug,Total Bird Count
+2,BP,92,Dec-2022,2022,Dec,Total Bird Count
+3,BP,147,Feb-2022,2022,Feb,Total Bird Count
+4,BP,203,Jan-2022,2022,Jan,Total Bird Count
+5,BP,224,Jul-2022,2022,Jul,Total Bird Count
+6,BP,222,Jun-2022,2022,Jun,Total Bird Count
+7,BP,174,Mar-2022,2022,Mar,Total Bird Count
+8,BP,228,May-2022,2022,May,Total Bird Count
+9,BP,92,Nov-2022,2022,Nov,Total Bird Count
+10,BP,122,Oct-2022,2022,Oct,Total Bird Count
+11,BP,50,Sept-2022,2022,Sept,Total Bird Count
+12,CC,195,Apr-2022,2022,Apr,Total Bird Count
+13,CC,86,Aug-2022,2022,Aug,Total Bird Count
+14,CC,616,Dec-2022,2022,Dec,Total Bird Count
+15,CC,146,Feb-2022,2022,Feb,Total Bird Count
+16,CC,256,Jan-2022,2022,Jan,Total Bird Count
+17,CC,318,Jul-2022,2022,Jul,Total Bird Count
+18,CC,116,Jun-2022,2022,Jun,Total Bird Count
+19,CC,259,Mar-2022,2022,Mar,Total Bird Count
+20,CC,252,May-2022,2022,May,Total Bird Count
+21,CC,65,Nov-2022,2022,Nov,Total Bird Count
+22,CC,100,Oct-2022,2022,Oct,Total Bird Count
+23,CC,145,Sept-2022,2022,Sept,Total Bird Count
+24,CS,236,Apr-2022,2022,Apr,Total Bird Count
+25,CS,33,Aug-2022,2022,Aug,Total Bird Count
+26,CS,157,Dec-2022,2022,Dec,Total Bird Count
+27,CS,59,Feb-2022,2022,Feb,Total Bird Count
+28,CS,207,Jan-2022,2022,Jan,Total Bird Count
+29,CS,71,Jul-2022,2022,Jul,Total Bird Count
+30,CS,50,Jun-2022,2022,Jun,Total Bird Count
+31,CS,184,Mar-2022,2022,Mar,Total Bird Count
+32,CS,57,May-2022,2022,May,Total Bird Count
+33,CS,119,Nov-2022,2022,Nov,Total Bird Count
+34,CS,43,Oct-2022,2022,Oct,Total Bird Count
+35,CS,71,Sept-2022,2022,Sept,Total Bird Count
+36,DW,167,Apr-2022,2022,Apr,Total Bird Count
+37,DW,20,Aug-2022,2022,Aug,Total Bird Count
+38,DW,83,Dec-2022,2022,Dec,Total Bird Count
+39,DW,88,Feb-2022,2022,Feb,Total Bird Count
+40,DW,199,Jan-2022,2022,Jan,Total Bird Count
+41,DW,52,Jul-2022,2022,Jul,Total Bird Count
+42,DW,56,Jun-2022,2022,Jun,Total Bird Count
+43,DW,115,Mar-2022,2022,Mar,Total Bird Count
+44,DW,64,May-2022,2022,May,Total Bird Count
+45,DW,134,Nov-2022,2022,Nov,Total Bird Count
+46,DW,126,Oct-2022,2022,Oct,Total Bird Count
+47,DW,176,Sept-2022,2022,Sept,Total Bird Count
+48,EC,30,Apr-2022,2022,Apr,Total Bird Count
+49,EC,6,Aug-2022,2022,Aug,Total Bird Count
+50,EC,40,Dec-2022,2022,Dec,Total Bird Count
+51,EC,23,Feb-2022,2022,Feb,Total Bird Count
+52,EC,103,Jan-2022,2022,Jan,Total Bird Count
+53,EC,25,Jul-2022,2022,Jul,Total Bird Count
+54,EC,62,Jun-2022,2022,Jun,Total Bird Count
+55,EC,13,Mar-2022,2022,Mar,Total Bird Count
+56,EC,41,May-2022,2022,May,Total Bird Count
+57,EC,18,Nov-2022,2022,Nov,Total Bird Count
+58,EC,69,Oct-2022,2022,Oct,Total Bird Count
+59,EC,12,Sept-2022,2022,Sept,Total Bird Count
+60,EF1,130,Apr-2022,2022,Apr,Total Bird Count
+61,EF1,112,Aug-2022,2022,Aug,Total Bird Count
+62,EF1,43,Dec-2022,2022,Dec,Total Bird Count
+63,EF1,267,Feb-2022,2022,Feb,Total Bird Count
+64,EF1,264,Jan-2022,2022,Jan,Total Bird Count
+65,EF1,179,Jul-2022,2022,Jul,Total Bird Count
+66,EF1,126,Jun-2022,2022,Jun,Total Bird Count
+67,EF1,179,Mar-2022,2022,Mar,Total Bird Count
+68,EF1,172,May-2022,2022,May,Total Bird Count
+69,EF1,58,Nov-2022,2022,Nov,Total Bird Count
+70,EF1,53,Oct-2022,2022,Oct,Total Bird Count
+71,EF1,73,Sept-2022,2022,Sept,Total Bird Count
+72,EF2,131,Apr-2022,2022,Apr,Total Bird Count
+73,EF2,36,Aug-2022,2022,Aug,Total Bird Count
+74,EF2,75,Dec-2022,2022,Dec,Total Bird Count
+75,EF2,30,Feb-2022,2022,Feb,Total Bird Count
+76,EF2,9,Jan-2022,2022,Jan,Total Bird Count
+77,EF2,105,Jul-2022,2022,Jul,Total Bird Count
+78,EF2,44,Jun-2022,2022,Jun,Total Bird Count
+79,EF2,11,Mar-2022,2022,Mar,Total Bird Count
+80,EF2,53,May-2022,2022,May,Total Bird Count
+81,EF2,37,Nov-2022,2022,Nov,Total Bird Count
+82,EF2,38,Oct-2022,2022,Oct,Total Bird Count
+83,EF2,67,Sept-2022,2022,Sept,Total Bird Count
+84,EM,90,Apr-2022,2022,Apr,Total Bird Count
+85,EM,88,Aug-2022,2022,Aug,Total Bird Count
+86,EM,34,Dec-2022,2022,Dec,Total Bird Count
+87,EM,122,Feb-2022,2022,Feb,Total Bird Count
+88,EM,112,Jan-2022,2022,Jan,Total Bird Count
+89,EM,108,Jul-2022,2022,Jul,Total Bird Count
+90,EM,166,Jun-2022,2022,Jun,Total Bird Count
+91,EM,149,Mar-2022,2022,Mar,Total Bird Count
+92,EM,120,May-2022,2022,May,Total Bird Count
+93,EM,50,Nov-2022,2022,Nov,Total Bird Count
+94,EM,84,Oct-2022,2022,Oct,Total Bird Count
+95,EM,136,Sept-2022,2022,Sept,Total Bird Count
+96,IM,31,Apr-2022,2022,Apr,Total Bird Count
+97,IM,17,Aug-2022,2022,Aug,Total Bird Count
+98,IM,0,Dec-2022,2022,Dec,Total Bird Count
+99,IM,14,Feb-2022,2022,Feb,Total Bird Count
+100,IM,0,Jan-2022,2022,Jan,Total Bird Count
+101,IM,39,Jul-2022,2022,Jul,Total Bird Count
+102,IM,25,Jun-2022,2022,Jun,Total Bird Count
+103,IM,11,Mar-2022,2022,Mar,Total Bird Count
+104,IM,48,May-2022,2022,May,Total Bird Count
+105,IM,2,Nov-2022,2022,Nov,Total Bird Count
+106,IM,27,Oct-2022,2022,Oct,Total Bird Count
+107,IM,5,Sept-2022,2022,Sept,Total Bird Count
+108,MC1,274,Apr-2022,2022,Apr,Total Bird Count
+109,MC1,201,Aug-2022,2022,Aug,Total Bird Count
+110,MC1,286,Dec-2022,2022,Dec,Total Bird Count
+111,MC1,104,Feb-2022,2022,Feb,Total Bird Count
+112,MC1,404,Jan-2022,2022,Jan,Total Bird Count
+113,MC1,199,Jul-2022,2022,Jul,Total Bird Count
+114,MC1,240,Jun-2022,2022,Jun,Total Bird Count
+115,MC1,175,Mar-2022,2022,Mar,Total Bird Count
+116,MC1,211,May-2022,2022,May,Total Bird Count
+117,MC1,258,Nov-2022,2022,Nov,Total Bird Count
+118,MC1,152,Oct-2022,2022,Oct,Total Bird Count
+119,MC1,113,Sept-2022,2022,Sept,Total Bird Count
+120,MC2,101,Apr-2022,2022,Apr,Total Bird Count
+121,MC2,20,Aug-2022,2022,Aug,Total Bird Count
+122,MC2,27,Dec-2022,2022,Dec,Total Bird Count
+123,MC2,26,Feb-2022,2022,Feb,Total Bird Count
+124,MC2,36,Jan-2022,2022,Jan,Total Bird Count
+125,MC2,35,Jul-2022,2022,Jul,Total Bird Count
+126,MC2,33,Jun-2022,2022,Jun,Total Bird Count
+127,MC2,46,Mar-2022,2022,Mar,Total Bird Count
+128,MC2,61,May-2022,2022,May,Total Bird Count
+129,MC2,145,Nov-2022,2022,Nov,Total Bird Count
+130,MC2,44,Oct-2022,2022,Oct,Total Bird Count
+131,MC2,91,Sept-2022,2022,Sept,Total Bird Count
+132,NF1,7,Apr-2022,2022,Apr,Total Bird Count
+133,NF1,24,Aug-2022,2022,Aug,Total Bird Count
+134,NF1,8,Dec-2022,2022,Dec,Total Bird Count
+135,NF1,3,Feb-2022,2022,Feb,Total Bird Count
+136,NF1,27,Jan-2022,2022,Jan,Total Bird Count
+137,NF1,29,Jul-2022,2022,Jul,Total Bird Count
+138,NF1,28,Jun-2022,2022,Jun,Total Bird Count
+139,NF1,7,Mar-2022,2022,Mar,Total Bird Count
+140,NF1,15,May-2022,2022,May,Total Bird Count
+141,NF1,0,Nov-2022,2022,Nov,Total Bird Count
+142,NF1,22,Oct-2022,2022,Oct,Total Bird Count
+143,NF1,18,Sept-2022,2022,Sept,Total Bird Count
+144,NF2,83,Apr-2022,2022,Apr,Total Bird Count
+145,NF2,55,Aug-2022,2022,Aug,Total Bird Count
+146,NF2,58,Dec-2022,2022,Dec,Total Bird Count
+147,NF2,13,Feb-2022,2022,Feb,Total Bird Count
+148,NF2,34,Jan-2022,2022,Jan,Total Bird Count
+149,NF2,55,Jul-2022,2022,Jul,Total Bird Count
+150,NF2,47,Jun-2022,2022,Jun,Total Bird Count
+151,NF2,50,Mar-2022,2022,Mar,Total Bird Count
+152,NF2,59,May-2022,2022,May,Total Bird Count
+153,NF2,0,Nov-2022,2022,Nov,Total Bird Count
+154,NF2,82,Oct-2022,2022,Oct,Total Bird Count
+155,NF2,44,Sept-2022,2022,Sept,Total Bird Count
+156,OE,172,Apr-2022,2022,Apr,Total Bird Count
+157,OE,6,Aug-2022,2022,Aug,Total Bird Count
+158,OE,21,Dec-2022,2022,Dec,Total Bird Count
+159,OE,14,Feb-2022,2022,Feb,Total Bird Count
+160,OE,36,Jan-2022,2022,Jan,Total Bird Count
+161,OE,2,Jul-2022,2022,Jul,Total Bird Count
+162,OE,13,Jun-2022,2022,Jun,Total Bird Count
+163,OE,27,Mar-2022,2022,Mar,Total Bird Count
+164,OE,8,May-2022,2022,May,Total Bird Count
+165,OE,43,Nov-2022,2022,Nov,Total Bird Count
+166,OE,0,Oct-2022,2022,Oct,Total Bird Count
+167,OE,12,Sept-2022,2022,Sept,Total Bird Count
+168,SA,345,Apr-2022,2022,Apr,Total Bird Count
+169,SA,107,Aug-2022,2022,Aug,Total Bird Count
+170,SA,209,Dec-2022,2022,Dec,Total Bird Count
+171,SA,18,Feb-2022,2022,Feb,Total Bird Count
+172,SA,243,Jan-2022,2022,Jan,Total Bird Count
+173,SA,67,Jul-2022,2022,Jul,Total Bird Count
+174,SA,62,Jun-2022,2022,Jun,Total Bird Count
+175,SA,80,Mar-2022,2022,Mar,Total Bird Count
+176,SA,111,May-2022,2022,May,Total Bird Count
+177,SA,0,Nov-2022,2022,Nov,Total Bird Count
+178,SA,61,Oct-2022,2022,Oct,Total Bird Count
+179,SA,29,Sept-2022,2022,Sept,Total Bird Count
+180,SR,108,Apr-2022,2022,Apr,Total Bird Count
+181,SR,1,Aug-2022,2022,Aug,Total Bird Count
+182,SR,121,Dec-2022,2022,Dec,Total Bird Count
+183,SR,143,Feb-2022,2022,Feb,Total Bird Count
+184,SR,16,Jan-2022,2022,Jan,Total Bird Count
+185,SR,38,Jul-2022,2022,Jul,Total Bird Count
+186,SR,21,Jun-2022,2022,Jun,Total Bird Count
+187,SR,351,Mar-2022,2022,Mar,Total Bird Count
+188,SR,56,May-2022,2022,May,Total Bird Count
+189,SR,183,Nov-2022,2022,Nov,Total Bird Count
+190,SR,68,Oct-2022,2022,Oct,Total Bird Count
+191,SR,53,Sept-2022,2022,Sept,Total Bird Count
+192,TD1,18,Apr-2022,2022,Apr,Total Bird Count
+193,TD1,15,Aug-2022,2022,Aug,Total Bird Count
+194,TD1,5,Dec-2022,2022,Dec,Total Bird Count
+195,TD1,0,Feb-2022,2022,Feb,Total Bird Count
+196,TD1,12,Jan-2022,2022,Jan,Total Bird Count
+197,TD1,16,Jul-2022,2022,Jul,Total Bird Count
+198,TD1,15,Jun-2022,2022,Jun,Total Bird Count
+199,TD1,6,Mar-2022,2022,Mar,Total Bird Count
+200,TD1,19,May-2022,2022,May,Total Bird Count
+201,TD1,4,Nov-2022,2022,Nov,Total Bird Count
+202,TD1,0,Oct-2022,2022,Oct,Total Bird Count
+203,TD1,57,Sept-2022,2022,Sept,Total Bird Count
+204,TD2,59,Apr-2022,2022,Apr,Total Bird Count
+205,TD2,17,Aug-2022,2022,Aug,Total Bird Count
+206,TD2,27,Dec-2022,2022,Dec,Total Bird Count
+207,TD2,74,Feb-2022,2022,Feb,Total Bird Count
+208,TD2,24,Jan-2022,2022,Jan,Total Bird Count
+209,TD2,94,Jul-2022,2022,Jul,Total Bird Count
+210,TD2,78,Jun-2022,2022,Jun,Total Bird Count
+211,TD2,19,Mar-2022,2022,Mar,Total Bird Count
+212,TD2,25,May-2022,2022,May,Total Bird Count
+213,TD2,28,Nov-2022,2022,Nov,Total Bird Count
+214,TD2,12,Oct-2022,2022,Oct,Total Bird Count
+215,TD2,91,Sept-2022,2022,Sept,Total Bird Count
+216,TD3,32,Apr-2022,2022,Apr,Total Bird Count
+217,TD3,25,Aug-2022,2022,Aug,Total Bird Count
+218,TD3,22,Dec-2022,2022,Dec,Total Bird Count
+219,TD3,3,Feb-2022,2022,Feb,Total Bird Count
+220,TD3,35,Jan-2022,2022,Jan,Total Bird Count
+221,TD3,41,Jul-2022,2022,Jul,Total Bird Count
+222,TD3,81,Jun-2022,2022,Jun,Total Bird Count
+223,TD3,22,Mar-2022,2022,Mar,Total Bird Count
+224,TD3,26,May-2022,2022,May,Total Bird Count
+225,TD3,20,Nov-2022,2022,Nov,Total Bird Count
+226,TD3,2,Oct-2022,2022,Oct,Total Bird Count
+227,TD3,3,Sept-2022,2022,Sept,Total Bird Count
+228,WD,27,Apr-2022,2022,Apr,Total Bird Count
+229,WD,21,Aug-2022,2022,Aug,Total Bird Count
+230,WD,2,Dec-2022,2022,Dec,Total Bird Count
+231,WD,4,Feb-2022,2022,Feb,Total Bird Count
+232,WD,173,Jan-2022,2022,Jan,Total Bird Count
+233,WD,8,Jul-2022,2022,Jul,Total Bird Count
+234,WD,12,Jun-2022,2022,Jun,Total Bird Count
+235,WD,40,Mar-2022,2022,Mar,Total Bird Count
+236,WD,15,May-2022,2022,May,Total Bird Count
+237,WD,7,Nov-2022,2022,Nov,Total Bird Count
+238,WD,8,Oct-2022,2022,Oct,Total Bird Count
+239,WD,54,Sept-2022,2022,Sept,Total Bird Count
+0,ALL,3,Apr-2022,2022,Apr,American Coot
+1,ALL,181,Apr-2022,2022,Apr,American Robin
+2,ALL,9,Apr-2022,2022,Apr,American Wigeon
+3,ALL,5,Apr-2022,2022,Apr,Anna's Hummingbird
+4,ALL,1,Apr-2022,2022,Apr,Bald Eagle
+5,ALL,26,Apr-2022,2022,Apr,Barrow's Goldeneye
+6,ALL,4,Apr-2022,2022,Apr,Belted Kingfisher
+7,ALL,29,Apr-2022,2022,Apr,Black-capped Chickadee
+8,ALL,1,Apr-2022,2022,Apr,Brown Creeper
+9,ALL,1,Apr-2022,2022,Apr,Brown-headed Cowbird
+10,ALL,76,Apr-2022,2022,Apr,Bufflehead
+11,ALL,1,Apr-2022,2022,Apr,Cackling Goose
+12,ALL,1,Apr-2022,2022,Apr,California Gull
+13,ALL,118,Apr-2022,2022,Apr,Canada Goose
+14,ALL,3,Apr-2022,2022,Apr,Chestnut-backed Chickadee
+15,ALL,13,Apr-2022,2022,Apr,Common Goldeneye
+16,ALL,18,Apr-2022,2022,Apr,Common Loon
+17,ALL,95,Apr-2022,2022,Apr,Common Merganser
+18,ALL,13,Apr-2022,2022,Apr,Common Raven
+19,ALL,329,Apr-2022,2022,Apr,Dark-eyed Junco
+20,ALL,1,Apr-2022,2022,Apr,Double-crested Cormorant
+21,ALL,2,Apr-2022,2022,Apr,Downy Woodpecker
+22,ALL,9,Apr-2022,2022,Apr,Eurasian Collared-Dove
+23,ALL,2,Apr-2022,2022,Apr,European Starling
+24,ALL,3,Apr-2022,2022,Apr,Fox Sparrow
+25,ALL,1,Apr-2022,2022,Apr,Gadwall
+26,ALL,117,Apr-2022,2022,Apr,Glaucous-winged Gull
+27,ALL,1,Apr-2022,2022,Apr,Golden-crowned Sparrow
+28,ALL,9,Apr-2022,2022,Apr,Great Blue Heron
+29,ALL,4,Apr-2022,2022,Apr,Greater Scaup
+30,ALL,18,Apr-2022,2022,Apr,Green-winged Teal
+31,ALL,1,Apr-2022,2022,Apr,Hairy Woodpecker
+32,ALL,2,Apr-2022,2022,Apr,Hooded Merganser
+33,ALL,1,Apr-2022,2022,Apr,Horned Grebe
+34,ALL,11,Apr-2022,2022,Apr,House Finch
+35,ALL,3,Apr-2022,2022,Apr,House Sparrow
+36,ALL,14,Apr-2022,2022,Apr,Hummingbird sp.
+37,ALL,2,Apr-2022,2022,Apr,Killdeer
+38,ALL,6,Apr-2022,2022,Apr,Lesser Scaup
+39,ALL,326,Apr-2022,2022,Apr,Mallard
+40,ALL,0,Apr-2022,2022,Apr,Marsh Wren 
+41,ALL,47,Apr-2022,2022,Apr,Mew Gull
+42,ALL,21,Apr-2022,2022,Apr,Mountain Bluebird
+43,ALL,18,Apr-2022,2022,Apr,Northern Flicker
+44,ALL,40,Apr-2022,2022,Apr,Northwestern Crow
+45,ALL,2,Apr-2022,2022,Apr,Nthn. Rough-winged Swallow
+46,ALL,5,Apr-2022,2022,Apr,Orange-crowned Warbler
+47,ALL,4,Apr-2022,2022,Apr,Pelagic Cormorant
+48,ALL,3,Apr-2022,2022,Apr,Pied-billed Grebe
+49,ALL,1,Apr-2022,2022,Apr,Pileated Woodpecker
+50,ALL,92,Apr-2022,2022,Apr,Pine Siskin
+51,ALL,18,Apr-2022,2022,Apr,Purple Finch
+52,ALL,7,Apr-2022,2022,Apr,Red-breasted Merganser
+53,ALL,3,Apr-2022,2022,Apr,Red-breasted Nuthatch
+54,ALL,3,Apr-2022,2022,Apr,Red-breasted Sapsucker
+55,ALL,12,Apr-2022,2022,Apr,Red-necked Grebe
+56,ALL,107,Apr-2022,2022,Apr,Red-winged Blackbird
+57,ALL,6,Apr-2022,2022,Apr,Ring-necked Duck
+58,ALL,19,Apr-2022,2022,Apr,Rock Dove (Rock Pigeon)
+59,ALL,137,Apr-2022,2022,Apr,Ruby-crowned Kinglet
+60,ALL,2,Apr-2022,2022,Apr,Ruffed Grouse
+61,ALL,31,Apr-2022,2022,Apr,Rufous Hummingbird
+62,ALL,1,Apr-2022,2022,Apr,Savannah Sparrow
+63,ALL,2,Apr-2022,2022,Apr,Say's Phoebe
+64,ALL,83,Apr-2022,2022,Apr,Song Sparrow
+65,ALL,53,Apr-2022,2022,Apr,Spotted Towhee
+66,ALL,15,Apr-2022,2022,Apr,Steller's Jay
+67,ALL,55,Apr-2022,2022,Apr,Swallow sp.
+68,ALL,2446,Apr-2022,2022,Apr,Total Bird Count
+69,ALL,7,Apr-2022,2022,Apr,Townsend's Solitaire
+70,ALL,24,Apr-2022,2022,Apr,Tree Swallow
+71,ALL,65,Apr-2022,2022,Apr,Varied Thrush
+72,ALL,7,Apr-2022,2022,Apr,Violet-green Swallow
+73,ALL,2,Apr-2022,2022,Apr,Virginia Rail
+74,ALL,1,Apr-2022,2022,Apr,Western Grebe
+75,ALL,49,Apr-2022,2022,Apr,White-crowned Sparrow
+76,ALL,3,Apr-2022,2022,Apr,Winter Wren (Pacific)
+77,ALL,4,Apr-2022,2022,Apr,Yellow Warbler
+78,ALL,37,Apr-2022,2022,Apr,Yellow-rumped Warbler
+79,ALL,32,Aug-2022,2022,Aug,American Crow
+80,ALL,11,Aug-2022,2022,Aug,American Goldfinch
+81,ALL,2,Aug-2022,2022,Aug,American Redstart
+82,ALL,28,Aug-2022,2022,Aug,American Robin
+83,ALL,3,Aug-2022,2022,Aug,Bald Eagle
+84,ALL,10,Aug-2022,2022,Aug,Band-tailed Pigeon
+85,ALL,69,Aug-2022,2022,Aug,Barn Swallow
+86,ALL,4,Aug-2022,2022,Aug,Belted Kingfisher
+87,ALL,56,Aug-2022,2022,Aug,Black-capped Chickadee
+88,ALL,2,Aug-2022,2022,Aug,Black-throated Gray Warbler
+89,ALL,3,Aug-2022,2022,Aug,Brown Creeper
+90,ALL,1,Aug-2022,2022,Aug,Brown-headed Cowbird
+91,ALL,0,Aug-2022,2022,Aug,California Gull
+92,ALL,111,Aug-2022,2022,Aug,Canada Goose
+93,ALL,35,Aug-2022,2022,Aug,Cedar Waxwing
+94,ALL,36,Aug-2022,2022,Aug,Chestnut-backed Chickadee
+95,ALL,1,Aug-2022,2022,Aug,Common Merganser
+96,ALL,14,Aug-2022,2022,Aug,Common Raven
+97,ALL,17,Aug-2022,2022,Aug,Common Yellowthroat
+98,ALL,2,Aug-2022,2022,Aug,Downy Woodpecker
+99,ALL,7,Aug-2022,2022,Aug,Eurasian Collared-Dove
+100,ALL,53,Aug-2022,2022,Aug,European Starling
+101,ALL,60,Aug-2022,2022,Aug,Glaucous-winged Gull
+102,ALL,11,Aug-2022,2022,Aug,Great Blue Heron
+103,ALL,1,Aug-2022,2022,Aug,Green-winged Teal
+104,ALL,1,Aug-2022,2022,Aug,Hairy Woodpecker
+105,ALL,9,Aug-2022,2022,Aug,House Finch
+106,ALL,3,Aug-2022,2022,Aug,Least Sandpiper
+107,ALL,55,Aug-2022,2022,Aug,Mallard
+108,ALL,7,Aug-2022,2022,Aug,Northern Flicker
+109,ALL,10,Aug-2022,2022,Aug,Northern Rough-winged Swallow
+110,ALL,3,Aug-2022,2022,Aug,Osprey
+111,ALL,1,Aug-2022,2022,Aug,Pacific Wren
+112,ALL,4,Aug-2022,2022,Aug,Pacific-slope Flycatcher
+113,ALL,2,Aug-2022,2022,Aug,Peregrine Falcon
+114,ALL,15,Aug-2022,2022,Aug,Purple Finch
+115,ALL,12,Aug-2022,2022,Aug,Purple Martin
+116,ALL,5,Aug-2022,2022,Aug,Red-breasted Nuthatch
+117,ALL,8,Aug-2022,2022,Aug,Red-eyed Vireo
+118,ALL,1,Aug-2022,2022,Aug,Red-tailed hawk
+119,ALL,59,Aug-2022,2022,Aug,Red-winged Blackbird
+120,ALL,7,Aug-2022,2022,Aug,Rock Pigeon
+121,ALL,6,Aug-2022,2022,Aug,Rufous Hummingbird
+122,ALL,3,Aug-2022,2022,Aug,Short-blled Gull
+123,ALL,26,Aug-2022,2022,Aug,Song Sparrow
+124,ALL,27,Aug-2022,2022,Aug,Spotted Towhee
+125,ALL,3,Aug-2022,2022,Aug,Stellar’s Jay
+126,ALL,9,Aug-2022,2022,Aug,Swainson’s Thrush
+127,ALL,977,Aug-2022,2022,Aug,Total Bird Count
+128,ALL,2,Aug-2022,2022,Aug,Tree Swallow
+129,ALL,7,Aug-2022,2022,Aug,Turkey Vulture
+130,ALL,5,Aug-2022,2022,Aug,Vaux’s Swift
+131,ALL,2,Aug-2022,2022,Aug,Violet-green Swallow
+132,ALL,19,Aug-2022,2022,Aug,Warbling Vireo
+133,ALL,1,Aug-2022,2022,Aug,Western Tanager
+134,ALL,63,Aug-2022,2022,Aug,White-crowned Sparrow
+135,ALL,22,Aug-2022,2022,Aug,Willow Flycatcher
+136,ALL,11,Aug-2022,2022,Aug,Yellow Warbler
+137,ALL,3,Dec-2022,2022,Dec,American Coot
+138,ALL,35,Dec-2022,2022,Dec,American Crow
+139,ALL,55,Dec-2022,2022,Dec,American Robin
+140,ALL,109,Dec-2022,2022,Dec,American Wigeon
+141,ALL,4,Dec-2022,2022,Dec,Anna’s Hummingbird
+142,ALL,16,Dec-2022,2022,Dec,Bald Eagle
+143,ALL,15,Dec-2022,2022,Dec,Barrows Goldeneye
+144,ALL,1,Dec-2022,2022,Dec,Belted Kingfisher
+145,ALL,41,Dec-2022,2022,Dec,Black-capped Chickadee
+146,ALL,2,Dec-2022,2022,Dec,Bohemian Waxwing
+147,ALL,49,Dec-2022,2022,Dec,Bufflehead
+148,ALL,240,Dec-2022,2022,Dec,Canada Goose
+149,ALL,11,Dec-2022,2022,Dec,Chestnut-backed Chickadee
+150,ALL,32,Dec-2022,2022,Dec,Common Goldeneye
+151,ALL,2,Dec-2022,2022,Dec,Common Loon
+152,ALL,27,Dec-2022,2022,Dec,Common Merganser
+153,ALL,35,Dec-2022,2022,Dec,Common Raven
+154,ALL,111,Dec-2022,2022,Dec,Dark-eyed Junco
+155,ALL,16,Dec-2022,2022,Dec,Double-crested Cormorant
+156,ALL,1,Dec-2022,2022,Dec,Downy Woodpecker
+157,ALL,1,Dec-2022,2022,Dec,Eurasian Collared-Dove
+158,ALL,5,Dec-2022,2022,Dec,European Starling
+159,ALL,2,Dec-2022,2022,Dec,Fox Sparrow
+160,ALL,329,Dec-2022,2022,Dec,Glaucous-winged Gull
+161,ALL,7,Dec-2022,2022,Dec,Golden-crowned Kinglet
+162,ALL,4,Dec-2022,2022,Dec,Great Blue Heron
+163,ALL,17,Dec-2022,2022,Dec,Green-winged Teal
+164,ALL,2,Dec-2022,2022,Dec,Hairy Woodpecker
+165,ALL,10,Dec-2022,2022,Dec,Hooded Merganser
+166,ALL,15,Dec-2022,2022,Dec,House Finch
+167,ALL,392,Dec-2022,2022,Dec,Mallard
+168,ALL,1,Dec-2022,2022,Dec,Merlin
+169,ALL,20,Dec-2022,2022,Dec,Northern Flicker
+170,ALL,1,Dec-2022,2022,Dec,Northern Harrier
+171,ALL,1,Dec-2022,2022,Dec,Northern Pintail
+172,ALL,6,Dec-2022,2022,Dec,Pacific Wren
+173,ALL,7,Dec-2022,2022,Dec,Pelagic Cormorant
+174,ALL,1,Dec-2022,2022,Dec,Peregrine
+175,ALL,3,Dec-2022,2022,Dec,Pied Bil Grebe
+176,ALL,7,Dec-2022,2022,Dec,Pine Siskin
+177,ALL,7,Dec-2022,2022,Dec,Purple Finch
+178,ALL,7,Dec-2022,2022,Dec,Red Crossbill
+179,ALL,3,Dec-2022,2022,Dec,Red-breasted Nuthatch
+180,ALL,4,Dec-2022,2022,Dec,Red-breasted Sapsucker
+181,ALL,1,Dec-2022,2022,Dec,Red-tailed hawk
+182,ALL,6,Dec-2022,2022,Dec,Red-winged Blackbird
+183,ALL,18,Dec-2022,2022,Dec,Rock Pigeon
+184,ALL,3,Dec-2022,2022,Dec,Ruby-crowned Kinglet
+185,ALL,4,Dec-2022,2022,Dec,Sharp-shinned Hawk
+186,ALL,15,Dec-2022,2022,Dec,Short-blled Gull
+187,ALL,48,Dec-2022,2022,Dec,Song Sparrow
+188,ALL,53,Dec-2022,2022,Dec,Spotted Towhee
+189,ALL,37,Dec-2022,2022,Dec,Steller’s Jay
+190,ALL,1926,Dec-2022,2022,Dec,Total Bird Count
+191,ALL,7,Dec-2022,2022,Dec,Trumpeter Swan
+192,ALL,75,Dec-2022,2022,Dec,Varied Thrush
+193,ALL,2,Dec-2022,2022,Dec,Western Grebe
+194,ALL,3,Feb-2022,2022,Feb,American Dipper
+195,ALL,7,Feb-2022,2022,Feb,American Robin
+196,ALL,14,Feb-2022,2022,Feb,American Wigeon
+197,ALL,6,Feb-2022,2022,Feb,Anna's Hummingbird
+198,ALL,6,Feb-2022,2022,Feb,Bald Eagle
+199,ALL,15,Feb-2022,2022,Feb,Barrow's Goldeneye
+200,ALL,1,Feb-2022,2022,Feb,Belted Kingfisher
+201,ALL,32,Feb-2022,2022,Feb,Black-capped Chickadee
+202,ALL,3,Feb-2022,2022,Feb,Brown Creeper
+203,ALL,67,Feb-2022,2022,Feb,Bufflehead
+204,ALL,47,Feb-2022,2022,Feb,Canada Goose
+205,ALL,9,Feb-2022,2022,Feb,Chestnut-backed Chickadee
+206,ALL,36,Feb-2022,2022,Feb,Common Goldeneye
+207,ALL,12,Feb-2022,2022,Feb,Common Merganser
+208,ALL,27,Feb-2022,2022,Feb,Common Raven
+209,ALL,1,Feb-2022,2022,Feb,Cooper's Hawk
+210,ALL,92,Feb-2022,2022,Feb,Dark-eyed Junco
+211,ALL,7,Feb-2022,2022,Feb,Double-crested Cormorant
+212,ALL,3,Feb-2022,2022,Feb,Eurasian Collared-Dove
+213,ALL,10,Feb-2022,2022,Feb,European Starling
+214,ALL,1,Feb-2022,2022,Feb,Fox Sparrow
+215,ALL,272,Feb-2022,2022,Feb,Glaucous-winged Gull
+216,ALL,21,Feb-2022,2022,Feb,Great Blue Heron
+217,ALL,16,Feb-2022,2022,Feb,Green-winged Teal
+218,ALL,2,Feb-2022,2022,Feb,Hooded Merganser
+219,ALL,11,Feb-2022,2022,Feb,House Finch
+220,ALL,6,Feb-2022,2022,Feb,House Sparrow
+221,ALL,344,Feb-2022,2022,Feb,Mallard
+222,ALL,1,Feb-2022,2022,Feb,Mew Gull
+223,ALL,13,Feb-2022,2022,Feb,Northern Flicker
+224,ALL,5,Feb-2022,2022,Feb,Northern Pintail
+225,ALL,1,Feb-2022,2022,Feb,Northern Shrike
+226,ALL,53,Feb-2022,2022,Feb,Northwestern Crow
+227,ALL,3,Feb-2022,2022,Feb,Pelagic Cormorant
+228,ALL,1,Feb-2022,2022,Feb,Pileated Wodpecker
+229,ALL,3,Feb-2022,2022,Feb,Pine Siskin
+230,ALL,50,Feb-2022,2022,Feb,Red-winged Blackbird
+231,ALL,16,Feb-2022,2022,Feb,Rock Dove (Pigeon)
+232,ALL,1,Feb-2022,2022,Feb,Ruffed Grouse
+233,ALL,1,Feb-2022,2022,Feb,Sharp-shinned Hawk
+234,ALL,39,Feb-2022,2022,Feb,Song Sparrow
+235,ALL,15,Feb-2022,2022,Feb,Spotted Towhee
+236,ALL,19,Feb-2022,2022,Feb,Steller's Jay
+237,ALL,1298,Feb-2022,2022,Feb,Total Bird Count
+238,ALL,6,Feb-2022,2022,Feb,Varied Thrush
+239,ALL,1,Jan-2022,2022,Jan,Accipiter sp.
+240,ALL,5,Jan-2022,2022,Jan,American Coot
+241,ALL,2,Jan-2022,2022,Jan,American Dipper
+242,ALL,30,Jan-2022,2022,Jan,American Wigeon
+243,ALL,1,Jan-2022,2022,Jan,Anna's Hummingbird
+244,ALL,8,Jan-2022,2022,Jan,Bald Eagle
+245,ALL,2,Jan-2022,2022,Jan,Barrrow's Goldeneye
+246,ALL,2,Jan-2022,2022,Jan,Belted Kingfisher
+247,ALL,55,Jan-2022,2022,Jan,Black-capped Chickadee
+248,ALL,1,Jan-2022,2022,Jan,Bohemian Waxwing
+249,ALL,2,Jan-2022,2022,Jan,Brown Creeper
+250,ALL,45,Jan-2022,2022,Jan,Bufflehead
+251,ALL,356,Jan-2022,2022,Jan,Canada Goose
+252,ALL,7,Jan-2022,2022,Jan,Chestnut-backed Chickadee
+253,ALL,11,Jan-2022,2022,Jan,Common Goldeneye
+254,ALL,4,Jan-2022,2022,Jan,Common Merganser
+255,ALL,68,Jan-2022,2022,Jan,Common Raven
+256,ALL,1,Jan-2022,2022,Jan,Cooper's Hawk
+257,ALL,88,Jan-2022,2022,Jan,Dark-eyed Junco
+258,ALL,17,Jan-2022,2022,Jan,Double-crested Cormorant
+259,ALL,6,Jan-2022,2022,Jan,Downy Woodpecker
+260,ALL,2,Jan-2022,2022,Jan,Eurasian Collared-Dove
+261,ALL,2,Jan-2022,2022,Jan,Fox Sparrow
+262,ALL,429,Jan-2022,2022,Jan,Glaucous-winged Gull
+263,ALL,6,Jan-2022,2022,Jan,Golden-crowned Kinglet
+264,ALL,15,Jan-2022,2022,Jan,Great Blue Heron
+265,ALL,17,Jan-2022,2022,Jan,Green-winged Teal
+266,ALL,74,Jan-2022,2022,Jan,"Gull, sp."
+267,ALL,2,Jan-2022,2022,Jan,Hairy Woodpecker
+268,ALL,1,Jan-2022,2022,Jan,Hawk Species
+269,ALL,5,Jan-2022,2022,Jan,Hooded Merganser
+270,ALL,13,Jan-2022,2022,Jan,House Finch
+271,ALL,3,Jan-2022,2022,Jan,House Sparrow
+272,ALL,677,Jan-2022,2022,Jan,Mallard
+273,ALL,6,Jan-2022,2022,Jan,Mew Gull
+274,ALL,9,Jan-2022,2022,Jan,Northern Flicker
+275,ALL,2,Jan-2022,2022,Jan,Northern Pintail
+276,ALL,32,Jan-2022,2022,Jan,Northwestern Crow
+277,ALL,5,Jan-2022,2022,Jan,Pelagic Cormorant
+278,ALL,1,Jan-2022,2022,Jan,Pied-billed Grebe
+279,ALL,149,Jan-2022,2022,Jan,Pine Siskin
+280,ALL,1,Jan-2022,2022,Jan,Red-tailed Hawk
+281,ALL,78,Jan-2022,2022,Jan,Red-winged Blackbird
+282,ALL,17,Jan-2022,2022,Jan,Rock Dove
+283,ALL,1,Jan-2022,2022,Jan,Short-eared Owl
+284,ALL,65,Jan-2022,2022,Jan,Song Sparrow
+285,ALL,27,Jan-2022,2022,Jan,Spotted Towhee
+286,ALL,34,Jan-2022,2022,Jan,Steller's Jay
+287,ALL,2393,Jan-2022,2022,Jan,Total Bird Count
+288,ALL,1,Jan-2022,2022,Jan,Trumpeter Swan
+289,ALL,6,Jan-2022,2022,Jan,Varied Thrush
+290,ALL,1,Jan-2022,2022,Jan,Winter Wren (Pacific)
+291,ALL,2,Jul-2022,2022,Jul,American Crow
+292,ALL,12,Jul-2022,2022,Jul,American Goldfinch
+293,ALL,5,Jul-2022,2022,Jul,American Redstart
+294,ALL,125,Jul-2022,2022,Jul,American Robin
+295,ALL,1,Jul-2022,2022,Jul,Anna's Hummingbird
+296,ALL,7,Jul-2022,2022,Jul,Bald Eagle
+297,ALL,111,Jul-2022,2022,Jul,Band-tailed Pigeon
+298,ALL,9,Jul-2022,2022,Jul,Barn Swallow
+299,ALL,1,Jul-2022,2022,Jul,Barred Owl
+300,ALL,3,Jul-2022,2022,Jul,Belted Kingfisher
+301,ALL,19,Jul-2022,2022,Jul,Black-capped Chickadee
+302,ALL,3,Jul-2022,2022,Jul,Black-headed Grosbeak
+303,ALL,7,Jul-2022,2022,Jul,Black-throated Gray Warbler
+304,ALL,2,Jul-2022,2022,Jul,Brown Creeper
+305,ALL,9,Jul-2022,2022,Jul,Brown-headed Cowbird
+306,ALL,2,Jul-2022,2022,Jul,Bufflehead
+307,ALL,238,Jul-2022,2022,Jul,Canada Goose
+308,ALL,20,Jul-2022,2022,Jul,Caspian Tern
+309,ALL,118,Jul-2022,2022,Jul,Cedar Waxwing
+310,ALL,13,Jul-2022,2022,Jul,Chestnut-backed Chickadee
+311,ALL,2,Jul-2022,2022,Jul,Chickadee sp.
+312,ALL,1,Jul-2022,2022,Jul,Common Goldeneye
+313,ALL,1,Jul-2022,2022,Jul,Common Loon
+314,ALL,17,Jul-2022,2022,Jul,Common Merganser
+315,ALL,13,Jul-2022,2022,Jul,Common Raven
+316,ALL,36,Jul-2022,2022,Jul,Common Yellowthroat
+317,ALL,9,Jul-2022,2022,Jul,Eurasian Collared-Dove
+318,ALL,28,Jul-2022,2022,Jul,European Starling
+319,ALL,23,Jul-2022,2022,Jul,Glaucous-winged Gull
+320,ALL,14,Jul-2022,2022,Jul,Great Blue Heron
+321,ALL,1,Jul-2022,2022,Jul,Hammond's Flycatcher
+322,ALL,4,Jul-2022,2022,Jul,House Finch
+323,ALL,1,Jul-2022,2022,Jul,House Sparrow
+324,ALL,2,Jul-2022,2022,Jul,MacGillivray's Warbler
+325,ALL,42,Jul-2022,2022,Jul,Mallard
+326,ALL,6,Jul-2022,2022,Jul,Marsh Wren
+327,ALL,19,Jul-2022,2022,Jul,Northern Flicker
+328,ALL,22,Jul-2022,2022,Jul,Northwestern Crow
+329,ALL,6,Jul-2022,2022,Jul,Nthn. Rough-winged Swallow
+330,ALL,1,Jul-2022,2022,Jul,Osprey
+331,ALL,20,Jul-2022,2022,Jul,Pacific-slope Flycatcher
+332,ALL,1,Jul-2022,2022,Jul,Peregrine Falcon
+333,ALL,4,Jul-2022,2022,Jul,Pigeon sp.
+334,ALL,26,Jul-2022,2022,Jul,Purple Finch
+335,ALL,33,Jul-2022,2022,Jul,Purple Martin
+336,ALL,2,Jul-2022,2022,Jul,Red Crossbill
+337,ALL,16,Jul-2022,2022,Jul,Red-eyed Vireo
+338,ALL,2,Jul-2022,2022,Jul,Red-throated Loon
+339,ALL,99,Jul-2022,2022,Jul,Red-winged Blackbird
+340,ALL,2,Jul-2022,2022,Jul,Ring-billed Gull
+341,ALL,14,Jul-2022,2022,Jul,Rock Dove
+342,ALL,9,Jul-2022,2022,Jul,Rufous Hummingbird
+343,ALL,7,Jul-2022,2022,Jul,Savannah Sparrow
+344,ALL,53,Jul-2022,2022,Jul,Song Sparrow
+345,ALL,33,Jul-2022,2022,Jul,Spotted Towhee
+346,ALL,3,Jul-2022,2022,Jul,Steller's Jay
+347,ALL,152,Jul-2022,2022,Jul,Swainson's Thrush
+348,ALL,1705,Jul-2022,2022,Jul,Total Bird Count
+349,ALL,86,Jul-2022,2022,Jul,Tree Swallow
+350,ALL,7,Jul-2022,2022,Jul,Turkey Vulture
+351,ALL,6,Jul-2022,2022,Jul,Vaux's Swift
+352,ALL,20,Jul-2022,2022,Jul,Violet-green Swallow
+353,ALL,1,Jul-2022,2022,Jul,Virginia Rail
+354,ALL,18,Jul-2022,2022,Jul,Warbling Vireo
+355,ALL,3,Jul-2022,2022,Jul,Western Meadowlark
+356,ALL,2,Jul-2022,2022,Jul,Western Tanager
+357,ALL,60,Jul-2022,2022,Jul,White-crowned Sparrow
+358,ALL,20,Jul-2022,2022,Jul,Willow Flycatcher
+359,ALL,2,Jul-2022,2022,Jul,Wood Duck
+360,ALL,47,Jul-2022,2022,Jul,Yellow Warbler
+361,ALL,2,Jul-2022,2022,Jul,Yellow-rumped Warbler
+362,ALL,2,Jun-2022,2022,Jun,American Goldfinch
+363,ALL,1,Jun-2022,2022,Jun,American Pipit
+364,ALL,6,Jun-2022,2022,Jun,American Redstart
+365,ALL,103,Jun-2022,2022,Jun,American Robin
+366,ALL,2,Jun-2022,2022,Jun,Anna's Hummingbird
+367,ALL,10,Jun-2022,2022,Jun,Bald Eagle
+368,ALL,3,Jun-2022,2022,Jun,Band-tailed Pigeon
+369,ALL,13,Jun-2022,2022,Jun,Barn Swallow
+370,ALL,3,Jun-2022,2022,Jun,Belted Kingfisher
+371,ALL,6,Jun-2022,2022,Jun,Black-capped Chickadee
+372,ALL,9,Jun-2022,2022,Jun,Black-headed Grosbeak
+373,ALL,7,Jun-2022,2022,Jun,Black-throated Gray Warbler
+374,ALL,9,Jun-2022,2022,Jun,Brown-headed Cowbird
+375,ALL,185,Jun-2022,2022,Jun,Canada Goose
+376,ALL,18,Jun-2022,2022,Jun,Caspian Tern
+377,ALL,3,Jun-2022,2022,Jun,Cassin's Vireo
+378,ALL,139,Jun-2022,2022,Jun,Cedar Waxwing
+379,ALL,2,Jun-2022,2022,Jun,Cinnamon Teal
+380,ALL,1,Jun-2022,2022,Jun,Common Loon
+381,ALL,23,Jun-2022,2022,Jun,Common Merganser
+382,ALL,1,Jun-2022,2022,Jun,Common Nighthawk
+383,ALL,24,Jun-2022,2022,Jun,Common Raven
+384,ALL,16,Jun-2022,2022,Jun,Common Yellowthroat
+385,ALL,5,Jun-2022,2022,Jun,Eastern Kingbird
+386,ALL,8,Jun-2022,2022,Jun,Eurasian Collared-Dove
+387,ALL,46,Jun-2022,2022,Jun,European Starling
+388,ALL,42,Jun-2022,2022,Jun,Glaucous-winged Gull
+389,ALL,14,Jun-2022,2022,Jun,Great Blue Heron
+390,ALL,1,Jun-2022,2022,Jun,Great Horned Owl
+391,ALL,2,Jun-2022,2022,Jun,Hairy Woodpecker
+392,ALL,2,Jun-2022,2022,Jun,Hammond's Flycatcher
+393,ALL,6,Jun-2022,2022,Jun,House Finch
+394,ALL,3,Jun-2022,2022,Jun,House Sparrow
+395,ALL,1,Jun-2022,2022,Jun,Killdeer
+396,ALL,10,Jun-2022,2022,Jun,MacGillivray's Warbler
+397,ALL,31,Jun-2022,2022,Jun,Mallard
+398,ALL,1,Jun-2022,2022,Jun,Merlin
+399,ALL,8,Jun-2022,2022,Jun,Northern Flicker
+400,ALL,38,Jun-2022,2022,Jun,Northwestern Crow
+401,ALL,4,Jun-2022,2022,Jun,Nthn. Rough-winged Swallow
+402,ALL,1,Jun-2022,2022,Jun,Orange-crowned Warbler
+403,ALL,2,Jun-2022,2022,Jun,Osprey
+404,ALL,15,Jun-2022,2022,Jun,Pacific-slope Flycatcher
+405,ALL,25,Jun-2022,2022,Jun,Pine Siskin
+406,ALL,7,Jun-2022,2022,Jun,Purple Finch
+407,ALL,15,Jun-2022,2022,Jun,Purple Martin
+408,ALL,4,Jun-2022,2022,Jun,Red-breasted Sapsucker
+409,ALL,5,Jun-2022,2022,Jun,Red-eyed Vireo
+410,ALL,84,Jun-2022,2022,Jun,Red-winged Blackbird
+411,ALL,12,Jun-2022,2022,Jun,Rock Dove
+412,ALL,19,Jun-2022,2022,Jun,Rufous Hummingbird
+413,ALL,4,Jun-2022,2022,Jun,Savannah Sparrow
+414,ALL,37,Jun-2022,2022,Jun,Song Sparrow
+415,ALL,7,Jun-2022,2022,Jun,Spotted Sandpiper
+416,ALL,35,Jun-2022,2022,Jun,Spotted Towhee
+417,ALL,4,Jun-2022,2022,Jun,Steller's Jay
+418,ALL,102,Jun-2022,2022,Jun,Swainson's Thrush
+419,ALL,40,Jun-2022,2022,Jun,Swallow sp.
+420,ALL,1497,Jun-2022,2022,Jun,Total Bird Count
+421,ALL,1,Jun-2022,2022,Jun,Townsend's Warbler
+422,ALL,60,Jun-2022,2022,Jun,Tree Swallow
+423,ALL,2,Jun-2022,2022,Jun,Turkey Vulture
+424,ALL,1,Jun-2022,2022,Jun,Vaux's Swift
+425,ALL,3,Jun-2022,2022,Jun,Violet-green Swallow
+426,ALL,4,Jun-2022,2022,Jun,Virginia Rail
+427,ALL,31,Jun-2022,2022,Jun,Warbling Vireo
+428,ALL,4,Jun-2022,2022,Jun,Western Kingbird
+429,ALL,1,Jun-2022,2022,Jun,Western Tanager
+430,ALL,6,Jun-2022,2022,Jun,Western Wood-Pewee
+431,ALL,67,Jun-2022,2022,Jun,White-crowned Sparrow
+432,ALL,36,Jun-2022,2022,Jun,Willow Flycatcher
+433,ALL,2,Jun-2022,2022,Jun,Wilson's Warbler
+434,ALL,2,Jun-2022,2022,Jun,Winter Wren (Pacific)
+435,ALL,1,Jun-2022,2022,Jun,Wood Duck
+436,ALL,34,Jun-2022,2022,Jun,Yellow Warbler
+437,ALL,16,Jun-2022,2022,Jun,Yellow-rumped Warbler
+438,ALL,155,Mar-2022,2022,Mar,American Robin
+439,ALL,1,Mar-2022,2022,Mar,American Tree Sparrow
+440,ALL,35,Mar-2022,2022,Mar,American Wigeon
+441,ALL,6,Mar-2022,2022,Mar,Anna's Hummingbird
+442,ALL,6,Mar-2022,2022,Mar,Bald Eagle
+443,ALL,3,Mar-2022,2022,Mar,Barrow's Goldeneye
+444,ALL,3,Mar-2022,2022,Mar,Belted Kingfisher
+445,ALL,39,Mar-2022,2022,Mar,Black-capped Chickadee
+446,ALL,4,Mar-2022,2022,Mar,Brown Creeper
+447,ALL,97,Mar-2022,2022,Mar,Bufflehead
+448,ALL,67,Mar-2022,2022,Mar,Canada Goose
+449,ALL,6,Mar-2022,2022,Mar,Chestnut-backed Chickadee
+450,ALL,59,Mar-2022,2022,Mar,Common Goldeneye
+451,ALL,44,Mar-2022,2022,Mar,Common Merganser
+452,ALL,31,Mar-2022,2022,Mar,Common Raven
+453,ALL,1,Mar-2022,2022,Mar,Common Redpoll
+454,ALL,134,Mar-2022,2022,Mar,Dark-eyed Junco
+455,ALL,8,Mar-2022,2022,Mar,Double-crested Cormorant
+456,ALL,1,Mar-2022,2022,Mar,Downy Woodpecker
+457,ALL,2,Mar-2022,2022,Mar,Eurasian Collared-Dove
+458,ALL,3,Mar-2022,2022,Mar,European Starling
+459,ALL,2,Mar-2022,2022,Mar,Fox Sparrow
+460,ALL,206,Mar-2022,2022,Mar,Glaucous-winged Gull
+461,ALL,10,Mar-2022,2022,Mar,Golden-crowned Kinglet
+462,ALL,10,Mar-2022,2022,Mar,Great Blue Heron
+463,ALL,85,Mar-2022,2022,Mar,Green-winged Teal
+464,ALL,1,Mar-2022,2022,Mar,"Gull, hybrid"
+465,ALL,25,Mar-2022,2022,Mar,"Gull, sp."
+466,ALL,1,Mar-2022,2022,Mar,Hairy Woodpecker
+467,ALL,4,Mar-2022,2022,Mar,Hooded Merganser
+468,ALL,5,Mar-2022,2022,Mar,House Finch
+469,ALL,7,Mar-2022,2022,Mar,House Sparrow
+470,ALL,5,Mar-2022,2022,Mar,Lesser Scaup
+471,ALL,495,Mar-2022,2022,Mar,Mallard
+472,ALL,13,Mar-2022,2022,Mar,Northern Flicker
+473,ALL,28,Mar-2022,2022,Mar,Northern Pintail
+474,ALL,52,Mar-2022,2022,Mar,Northwestern Crow
+475,ALL,4,Mar-2022,2022,Mar,Pelagic Cormorant
+476,ALL,2,Mar-2022,2022,Mar,Pileated Woodpecker
+477,ALL,2,Mar-2022,2022,Mar,Red-tailed Hawk
+478,ALL,88,Mar-2022,2022,Mar,Red-winged Blackbird
+479,ALL,1,Mar-2022,2022,Mar,Ring-necked Duck
+480,ALL,12,Mar-2022,2022,Mar,Rock Dove (Pigeon)
+481,ALL,1,Mar-2022,2022,Mar,Sharp-shinned Hawk
+482,ALL,66,Mar-2022,2022,Mar,Song Sparrow
+483,ALL,40,Mar-2022,2022,Mar,Spotted Towhee
+484,ALL,28,Mar-2022,2022,Mar,Steller's Jay
+485,ALL,1918,Mar-2022,2022,Mar,Total Bird Count
+486,ALL,14,Mar-2022,2022,Mar,Varied Thrush
+487,ALL,1,Mar-2022,2022,Mar,Western Meadowlark
+488,ALL,4,Mar-2022,2022,Mar,Winter Wren (Pacific Wren)
+489,ALL,1,Mar-2022,2022,Mar,Yellow-rumped Warbler
+490,ALL,12,May-2022,2022,May,American Goldfinch
+491,ALL,4,May-2022,2022,May,American Kestrel
+492,ALL,1,May-2022,2022,May,American Pipit
+493,ALL,97,May-2022,2022,May,American Robin
+494,ALL,10,May-2022,2022,May,American Wigeon
+495,ALL,1,May-2022,2022,May,Anna's Hummingbird
+496,ALL,3,May-2022,2022,May,Bald Eagle
+497,ALL,2,May-2022,2022,May,Barn Swallow
+498,ALL,2,May-2022,2022,May,Barrow's Goldeneye
+499,ALL,2,May-2022,2022,May,Belted Kingfisher
+500,ALL,10,May-2022,2022,May,Black-capped Chickadee
+501,ALL,24,May-2022,2022,May,Black-throated Gray Warbler
+502,ALL,1,May-2022,2022,May,Blue-winged Teal
+503,ALL,1,May-2022,2022,May,Bonaparte's Gull
+504,ALL,30,May-2022,2022,May,Brown-headed Cowbird
+505,ALL,55,May-2022,2022,May,Bufflehead
+506,ALL,1,May-2022,2022,May,California Gull
+507,ALL,141,May-2022,2022,May,Canada Goose
+508,ALL,4,May-2022,2022,May,Caspian Tern
+509,ALL,2,May-2022,2022,May,Chestnut-backed Chickadee
+510,ALL,1,May-2022,2022,May,Chipping Sparrow
+511,ALL,5,May-2022,2022,May,Cinnamon Teal
+512,ALL,55,May-2022,2022,May,Common Merganser
+513,ALL,15,May-2022,2022,May,Common Raven
+514,ALL,17,May-2022,2022,May,Common Yellowthroat
+515,ALL,9,May-2022,2022,May,Dark-eyed Junco
+516,ALL,1,May-2022,2022,May,Downy Woodpecker
+517,ALL,3,May-2022,2022,May,Eurasian Collared-Dove
+518,ALL,21,May-2022,2022,May,European Starling
+519,ALL,2,May-2022,2022,May,Gadwall
+520,ALL,83,May-2022,2022,May,Glaucous-winged Gull
+521,ALL,2,May-2022,2022,May,Golden-crowned Kinglet
+522,ALL,9,May-2022,2022,May,Golden-crowned Sparrow
+523,ALL,17,May-2022,2022,May,Great Blue Heron
+524,ALL,9,May-2022,2022,May,Greater Scaup
+525,ALL,2,May-2022,2022,May,Greater Yellowlegs
+526,ALL,15,May-2022,2022,May,Green-winged Teal
+527,ALL,77,May-2022,2022,May,Gull sp.
+528,ALL,1,May-2022,2022,May,Hairy Woodpecker
+529,ALL,6,May-2022,2022,May,Hammond's Flycatcher
+530,ALL,1,May-2022,2022,May,Hermit Thrush
+531,ALL,5,May-2022,2022,May,Hooded Merganser
+532,ALL,6,May-2022,2022,May,House Finch
+533,ALL,1,May-2022,2022,May,Killdeer
+534,ALL,2,May-2022,2022,May,Least Sandpiper
+535,ALL,14,May-2022,2022,May,Lesser Scaup
+536,ALL,7,May-2022,2022,May,Long-billed Dowitcher
+537,ALL,1,May-2022,2022,May,MacGillivray's Warbler
+538,ALL,100,May-2022,2022,May,Mallard
+539,ALL,1,May-2022,2022,May,Marsh Wren
+540,ALL,42,May-2022,2022,May,Mew Gull
+541,ALL,10,May-2022,2022,May,Northern Flicker
+542,ALL,1,May-2022,2022,May,Northern Harrier
+543,ALL,6,May-2022,2022,May,Northern Shoveler
+544,ALL,65,May-2022,2022,May,Northwestern Crow
+545,ALL,9,May-2022,2022,May,Nthn Rough-winged Swallow
+546,ALL,18,May-2022,2022,May,Orange-crowned Warbler
+547,ALL,4,May-2022,2022,May,Pacific-slope Flycatcher
+548,ALL,1,May-2022,2022,May,Peregrine Falcon
+549,ALL,1,May-2022,2022,May,Pileated Woodpecker
+550,ALL,43,May-2022,2022,May,Pine Siskin
+551,ALL,24,May-2022,2022,May,Purple Finch
+552,ALL,1,May-2022,2022,May,Red-breasted Nuthatch
+553,ALL,3,May-2022,2022,May,Red-breasted Sapsucker
+554,ALL,87,May-2022,2022,May,Red-winged Blackbird
+555,ALL,1,May-2022,2022,May,Ring-necked Duck
+556,ALL,10,May-2022,2022,May,Rock Dove (Pigeon)
+557,ALL,9,May-2022,2022,May,Ruby-crowned Kinglet
+558,ALL,34,May-2022,2022,May,Rufous Hummingbird
+559,ALL,2,May-2022,2022,May,Sandpiper sp.
+560,ALL,17,May-2022,2022,May,Savannah Sparrow
+561,ALL,2,May-2022,2022,May,Snow Goose
+562,ALL,39,May-2022,2022,May,Song Sparrow
+563,ALL,2,May-2022,2022,May,Sooty Grouse
+564,ALL,29,May-2022,2022,May,Spotted Towhee
+565,ALL,9,May-2022,2022,May,Steller's Jay
+566,ALL,1,May-2022,2022,May,Swainson's Thrush
+567,ALL,1641,May-2022,2022,May,Total Bird Count
+568,ALL,1,May-2022,2022,May,Townsend's Solitaire
+569,ALL,2,May-2022,2022,May,Townsend's Warbler
+570,ALL,46,May-2022,2022,May,Tree Swallow
+571,ALL,13,May-2022,2022,May,Turkey Vulture
+572,ALL,9,May-2022,2022,May,Varied Thrush
+573,ALL,52,May-2022,2022,May,Vaux's Swift
+574,ALL,21,May-2022,2022,May,Violet-green Swallow
+575,ALL,2,May-2022,2022,May,Virginia Rail
+576,ALL,3,May-2022,2022,May,Warbling Vireo
+577,ALL,1,May-2022,2022,May,Western Meadowlark
+578,ALL,61,May-2022,2022,May,White-crowned Sparrow
+579,ALL,3,May-2022,2022,May,Wilson's Warbler
+580,ALL,5,May-2022,2022,May,Winter (Pacific) Wren
+581,ALL,1,May-2022,2022,May,Wood Duck
+582,ALL,60,May-2022,2022,May,Yellow-rumped Warbler
+583,ALL,49,Nov-2022,2022,Nov,American Crow
+584,ALL,80,Nov-2022,2022,Nov,American Robin
+585,ALL,9,Nov-2022,2022,Nov,American Wigeon
+586,ALL,2,Nov-2022,2022,Nov,Anna’s Hummingbird
+587,ALL,6,Nov-2022,2022,Nov,Bald Eagle
+588,ALL,16,Nov-2022,2022,Nov,Barrows Goldeneye
+589,ALL,10,Nov-2022,2022,Nov,Belted Kingfisher
+590,ALL,14,Nov-2022,2022,Nov,Black Turnstone
+591,ALL,42,Nov-2022,2022,Nov,Black-capped Chickadee
+592,ALL,44,Nov-2022,2022,Nov,Bufflehead
+593,ALL,40,Nov-2022,2022,Nov,Canada Goose
+594,ALL,8,Nov-2022,2022,Nov,Chestnut-backed Chickadee
+595,ALL,39,Nov-2022,2022,Nov,Common Goldeneye
+596,ALL,3,Nov-2022,2022,Nov,Common Loon
+597,ALL,11,Nov-2022,2022,Nov,Common Merganser
+598,ALL,51,Nov-2022,2022,Nov,Common Raven
+599,ALL,109,Nov-2022,2022,Nov,Dark-eyed Junco
+600,ALL,9,Nov-2022,2022,Nov,Double-crested Cormorant
+601,ALL,1,Nov-2022,2022,Nov,Downy Woodpecker
+602,ALL,4,Nov-2022,2022,Nov,Eurasian Collared-Dove
+603,ALL,9,Nov-2022,2022,Nov,European Starling
+604,ALL,176,Nov-2022,2022,Nov,Glaucous-winged Gull
+605,ALL,11,Nov-2022,2022,Nov,Golden-crowned Kinglet
+606,ALL,12,Nov-2022,2022,Nov,Great Blue Heron
+607,ALL,1,Nov-2022,2022,Nov,Greater Scaup
+608,ALL,8,Nov-2022,2022,Nov,Green-winged Teal
+609,ALL,2,Nov-2022,2022,Nov,Hairy Woodpecker
+610,ALL,4,Nov-2022,2022,Nov,Hooded Merganser
+611,ALL,2,Nov-2022,2022,Nov,Horned Grebe
+612,ALL,3,Nov-2022,2022,Nov,House Finch
+613,ALL,1,Nov-2022,2022,Nov,House Sparrow
+614,ALL,5,Nov-2022,2022,Nov,Long-tailed Duck
+615,ALL,206,Nov-2022,2022,Nov,Mallard
+616,ALL,23,Nov-2022,2022,Nov,Northern Flicker
+617,ALL,2,Nov-2022,2022,Nov,Northern Pintail
+618,ALL,1,Nov-2022,2022,Nov,Northern Shrike
+619,ALL,4,Nov-2022,2022,Nov,Pacific Wren
+620,ALL,7,Nov-2022,2022,Nov,Pelagic Cormorant
+621,ALL,1,Nov-2022,2022,Nov,Pied Bil Grebe
+622,ALL,10,Nov-2022,2022,Nov,Pine Siskin
+623,ALL,21,Nov-2022,2022,Nov,Purple Finch
+624,ALL,3,Nov-2022,2022,Nov,Red-breasted Nuthatch
+625,ALL,2,Nov-2022,2022,Nov,Red-tailed hawk
+626,ALL,25,Nov-2022,2022,Nov,Rock Pigeon
+627,ALL,1,Nov-2022,2022,Nov,Ruby-crowned Kinglet
+628,ALL,51,Nov-2022,2022,Nov,Short-blled Gull
+629,ALL,40,Nov-2022,2022,Nov,Song Sparrow
+630,ALL,45,Nov-2022,2022,Nov,Spotted Towhee
+631,ALL,35,Nov-2022,2022,Nov,Steller’s Jay
+632,ALL,1,Nov-2022,2022,Nov,Surf Scoter
+633,ALL,1263,Nov-2022,2022,Nov,Total Bird Count
+634,ALL,1,Nov-2022,2022,Nov,Trumpeter Swan
+635,ALL,1,Nov-2022,2022,Nov,Varied Thrush
+636,ALL,2,Nov-2022,2022,Nov,Virginia Rail
+637,ALL,1,Oct-2022,2022,Oct,American Coot
+638,ALL,81,Oct-2022,2022,Oct,American Crow
+639,ALL,1,Oct-2022,2022,Oct,American Dipper
+640,ALL,174,Oct-2022,2022,Oct,American Robin
+641,ALL,9,Oct-2022,2022,Oct,American Wigeon
+642,ALL,2,Oct-2022,2022,Oct,Anna’s Humming Bird
+643,ALL,3,Oct-2022,2022,Oct,Bald Eagle
+644,ALL,27,Oct-2022,2022,Oct,Band-tailed Pigeon
+645,ALL,7,Oct-2022,2022,Oct,Belted Kingfisher
+646,ALL,26,Oct-2022,2022,Oct,Black-capped Chickadee
+647,ALL,4,Oct-2022,2022,Oct,Brown-headed Cowbird
+648,ALL,72,Oct-2022,2022,Oct,Canada Goose
+649,ALL,7,Oct-2022,2022,Oct,Cedar Waxwing
+650,ALL,11,Oct-2022,2022,Oct,Chestnut-backed Chickadee
+651,ALL,15,Oct-2022,2022,Oct,Common Merganser
+652,ALL,47,Oct-2022,2022,Oct,Common Raven
+653,ALL,1,Oct-2022,2022,Oct,Common Yellowthroat
+654,ALL,21,Oct-2022,2022,Oct,Dark-eyed Junco
+655,ALL,1,Oct-2022,2022,Oct,Downy Woodpecker
+656,ALL,2,Oct-2022,2022,Oct,Eurasian Collared-Dove
+657,ALL,11,Oct-2022,2022,Oct,European Starling
+658,ALL,1,Oct-2022,2022,Oct,Gadwall
+659,ALL,150,Oct-2022,2022,Oct,Glaucous-winged Gull
+660,ALL,2,Oct-2022,2022,Oct,Golden-crowned Kinglet
+661,ALL,22,Oct-2022,2022,Oct,Great Blue Heron
+662,ALL,5,Oct-2022,2022,Oct,Hooded Merganser
+663,ALL,6,Oct-2022,2022,Oct,House Sparrow
+664,ALL,2,Oct-2022,2022,Oct,Lincoln’s Sparrow
+665,ALL,118,Oct-2022,2022,Oct,Mallard
+666,ALL,1,Oct-2022,2022,Oct,Merlin
+667,ALL,19,Oct-2022,2022,Oct,Northern Flicker
+668,ALL,15,Oct-2022,2022,Oct,Northern Pintail
+669,ALL,1,Oct-2022,2022,Oct,Pacific Wren
+670,ALL,1,Oct-2022,2022,Oct,Pelagic Cormorant
+671,ALL,1,Oct-2022,2022,Oct,Peregrine Falcon
+672,ALL,10,Oct-2022,2022,Oct,Purple Finch
+673,ALL,2,Oct-2022,2022,Oct,Red Crossbill
+674,ALL,1,Oct-2022,2022,Oct,Red-breasted Nuthatch
+675,ALL,1,Oct-2022,2022,Oct,Red-tailed hawk
+676,ALL,59,Oct-2022,2022,Oct,Red-winged Blackbird
+677,ALL,16,Oct-2022,2022,Oct,Rock Pigeon
+678,ALL,2,Oct-2022,2022,Oct,Ruby-crowned Kinglet
+679,ALL,1,Oct-2022,2022,Oct,Sharp-shinned Hawk
+680,ALL,13,Oct-2022,2022,Oct,Short-blled Gull
+681,ALL,1,Oct-2022,2022,Oct,Snow Goose
+682,ALL,57,Oct-2022,2022,Oct,Song Sparrow
+683,ALL,46,Oct-2022,2022,Oct,Spotted Towhee
+684,ALL,19,Oct-2022,2022,Oct,Stellar’s Jay
+685,ALL,1113,Oct-2022,2022,Oct,Total Bird Count
+686,ALL,3,Oct-2022,2022,Oct,Townsend’s Warbler
+687,ALL,2,Oct-2022,2022,Oct,Virginia Rail
+688,ALL,3,Oct-2022,2022,Oct,White-crowned Sparrow
+689,ALL,5,Oct-2022,2022,Oct,Wood Duck
+690,ALL,5,Oct-2022,2022,Oct,Yellow-rumped Warbler
+691,ALL,74,Sept-2022,2022,Sept,American Crow
+692,ALL,69,Sept-2022,2022,Sept,American Robin
+693,ALL,16,Sept-2022,2022,Sept,American Wigeon
+694,ALL,1,Sept-2022,2022,Sept,Anna’s Humming Bird
+695,ALL,3,Sept-2022,2022,Sept,Bald Eagle
+696,ALL,32,Sept-2022,2022,Sept,Band-tailed Pigeon
+697,ALL,12,Sept-2022,2022,Sept,Barn Swallow
+698,ALL,2,Sept-2022,2022,Sept,Barred Owl
+699,ALL,6,Sept-2022,2022,Sept,Belted Kingfisher
+700,ALL,38,Sept-2022,2022,Sept,Black-capped Chickadee
+701,ALL,1,Sept-2022,2022,Sept,Brown Creeper
+702,ALL,1,Sept-2022,2022,Sept,California Gull
+703,ALL,245,Sept-2022,2022,Sept,Canada Goose
+704,ALL,20,Sept-2022,2022,Sept,Cedar Waxwing
+705,ALL,20,Sept-2022,2022,Sept,Chestnut-backed Chickadee
+706,ALL,26,Sept-2022,2022,Sept,Common Merganser
+707,ALL,39,Sept-2022,2022,Sept,Common Raven
+708,ALL,12,Sept-2022,2022,Sept,Common Yellowthroat
+709,ALL,3,Sept-2022,2022,Sept,Dark-eyed Junco
+710,ALL,1,Sept-2022,2022,Sept,Downy Woodpecker
+711,ALL,4,Sept-2022,2022,Sept,Eurasian Collared-Dove
+712,ALL,27,Sept-2022,2022,Sept,European Starling
+713,ALL,2,Sept-2022,2022,Sept,Fox Sparrow
+714,ALL,83,Sept-2022,2022,Sept,Glaucous-winged Gull
+715,ALL,3,Sept-2022,2022,Sept,Golden-crowned Kinglet
+716,ALL,21,Sept-2022,2022,Sept,Great Blue Heron
+717,ALL,1,Sept-2022,2022,Sept,Greater White-fronted Goose
+718,ALL,10,Sept-2022,2022,Sept,Green-winged Teal
+719,ALL,2,Sept-2022,2022,Sept,Hairy Woodpecker
+720,ALL,3,Sept-2022,2022,Sept,Hooded Merganser
+721,ALL,1,Sept-2022,2022,Sept,House Finch
+722,ALL,5,Sept-2022,2022,Sept,House Sparrow
+723,ALL,3,Sept-2022,2022,Sept,Lincoln’s Sparrow
+724,ALL,176,Sept-2022,2022,Sept,Mallard
+725,ALL,11,Sept-2022,2022,Sept,Northern Flicker
+726,ALL,5,Sept-2022,2022,Sept,Northern Pintail
+727,ALL,1,Sept-2022,2022,Sept,Northern Rough-winged Swallow
+728,ALL,1,Sept-2022,2022,Sept,Osprey
+729,ALL,4,Sept-2022,2022,Sept,Pacific Wren
+730,ALL,14,Sept-2022,2022,Sept,Pine Siskin
+731,ALL,5,Sept-2022,2022,Sept,Purple Finch
+732,ALL,21,Sept-2022,2022,Sept,Purple Martin
+733,ALL,2,Sept-2022,2022,Sept,Red Crossbill
+734,ALL,1,Sept-2022,2022,Sept,Red-breasted Nuthatch
+735,ALL,13,Sept-2022,2022,Sept,Red-winged Blackbird
+736,ALL,15,Sept-2022,2022,Sept,Rock Pigeon
+737,ALL,51,Sept-2022,2022,Sept,Savannah Sparrow
+738,ALL,55,Sept-2022,2022,Sept,Short-blled Gull
+739,ALL,32,Sept-2022,2022,Sept,Song Sparrow
+740,ALL,10,Sept-2022,2022,Sept,Spotted Towhee
+741,ALL,9,Sept-2022,2022,Sept,Stellar’s Jay
+742,ALL,1300,Sept-2022,2022,Sept,Total Bird Count
+743,ALL,1,Sept-2022,2022,Sept,Townsend’s Warbler
+744,ALL,1,Sept-2022,2022,Sept,Turkey Vulture
+745,ALL,20,Sept-2022,2022,Sept,Vaux’s Swift
+746,ALL,1,Sept-2022,2022,Sept,Violet-green Swallow
+747,ALL,1,Sept-2022,2022,Sept,Virginia Rail
+748,ALL,55,Sept-2022,2022,Sept,White-crowned Sparrow
+749,ALL,1,Sept-2022,2022,Sept,Willow Flycatcher
+750,ALL,8,Sept-2022,2022,Sept,Yellow-rumped Warbler
+0,ALL,77,Apr-2022,2022,Apr,Total Species Count
+1,ALL,56,Aug-2022,2022,Aug,Total Species Count
+2,ALL,56,Dec-2022,2022,Dec,Total Species Count
+3,ALL,44,Feb-2022,2022,Feb,Total Species Count
+4,ALL,51,Jan-2022,2022,Jan,Total Species Count
+5,ALL,70,Jul-2022,2022,Jul,Total Species Count
+6,ALL,75,Jun-2022,2022,Jun,Total Species Count
+7,ALL,51,Mar-2022,2022,Mar,Total Species Count
+8,ALL,92,May-2022,2022,May,Total Species Count
+9,ALL,53,Nov-2022,2022,Nov,Total Species Count
+10,ALL,53,Oct-2022,2022,Oct,Total Species Count
+11,ALL,59,Sept-2022,2022,Sept,Total Species Count
+12,BP,29,Apr-2022,2022,Apr,Total Species Count
+13,BP,16,Aug-2022,2022,Aug,Total Species Count
+14,BP,22,Dec-2022,2022,Dec,Total Species Count
+15,BP,19,Feb-2022,2022,Feb,Total Species Count
+16,BP,17,Jan-2022,2022,Jan,Total Species Count
+17,BP,35,Jul-2022,2022,Jul,Total Species Count
+18,BP,34,Jun-2022,2022,Jun,Total Species Count
+19,BP,20,Mar-2022,2022,Mar,Total Species Count
+20,BP,30,May-2022,2022,May,Total Species Count
+21,BP,17,Nov-2022,2022,Nov,Total Species Count
+22,BP,17,Oct-2022,2022,Oct,Total Species Count
+23,BP,16,Sept-2022,2022,Sept,Total Species Count
+24,CC,11,Apr-2022,2022,Apr,Total Species Count
+25,CC,5,Aug-2022,2022,Aug,Total Species Count
+26,CC,17,Dec-2022,2022,Dec,Total Species Count
+27,CC,13,Feb-2022,2022,Feb,Total Species Count
+28,CC,8,Jan-2022,2022,Jan,Total Species Count
+29,CC,24,Jul-2022,2022,Jul,Total Species Count
+30,CC,15,Jun-2022,2022,Jun,Total Species Count
+31,CC,11,Mar-2022,2022,Mar,Total Species Count
+32,CC,24,May-2022,2022,May,Total Species Count
+33,CC,10,Nov-2022,2022,Nov,Total Species Count
+34,CC,12,Oct-2022,2022,Oct,Total Species Count
+35,CC,16,Sept-2022,2022,Sept,Total Species Count
+36,CS,24,Apr-2022,2022,Apr,Total Species Count
+37,CS,14,Aug-2022,2022,Aug,Total Species Count
+38,CS,10,Dec-2022,2022,Dec,Total Species Count
+39,CS,8,Feb-2022,2022,Feb,Total Species Count
+40,CS,12,Jan-2022,2022,Jan,Total Species Count
+41,CS,19,Jul-2022,2022,Jul,Total Species Count
+42,CS,15,Jun-2022,2022,Jun,Total Species Count
+43,CS,17,Mar-2022,2022,Mar,Total Species Count
+44,CS,12,May-2022,2022,May,Total Species Count
+45,CS,7,Nov-2022,2022,Nov,Total Species Count
+46,CS,15,Oct-2022,2022,Oct,Total Species Count
+47,CS,18,Sept-2022,2022,Sept,Total Species Count
+48,DW,21,Apr-2022,2022,Apr,Total Species Count
+49,DW,11,Aug-2022,2022,Aug,Total Species Count
+50,DW,20,Dec-2022,2022,Dec,Total Species Count
+51,DW,14,Feb-2022,2022,Feb,Total Species Count
+52,DW,21,Jan-2022,2022,Jan,Total Species Count
+53,DW,17,Jul-2022,2022,Jul,Total Species Count
+54,DW,15,Jun-2022,2022,Jun,Total Species Count
+55,DW,16,Mar-2022,2022,Mar,Total Species Count
+56,DW,19,May-2022,2022,May,Total Species Count
+57,DW,17,Nov-2022,2022,Nov,Total Species Count
+58,DW,13,Oct-2022,2022,Oct,Total Species Count
+59,DW,13,Sept-2022,2022,Sept,Total Species Count
+60,EC,7,Apr-2022,2022,Apr,Total Species Count
+61,EC,2,Aug-2022,2022,Aug,Total Species Count
+62,EC,5,Dec-2022,2022,Dec,Total Species Count
+63,EC,2,Feb-2022,2022,Feb,Total Species Count
+64,EC,5,Jan-2022,2022,Jan,Total Species Count
+65,EC,3,Jul-2022,2022,Jul,Total Species Count
+66,EC,8,Jun-2022,2022,Jun,Total Species Count
+67,EC,4,Mar-2022,2022,Mar,Total Species Count
+68,EC,10,May-2022,2022,May,Total Species Count
+69,EC,4,Nov-2022,2022,Nov,Total Species Count
+70,EC,13,Oct-2022,2022,Oct,Total Species Count
+71,EC,4,Sept-2022,2022,Sept,Total Species Count
+72,EF1,24,Apr-2022,2022,Apr,Total Species Count
+73,EF1,15,Aug-2022,2022,Aug,Total Species Count
+74,EF1,8,Dec-2022,2022,Dec,Total Species Count
+75,EF1,13,Feb-2022,2022,Feb,Total Species Count
+76,EF1,11,Jan-2022,2022,Jan,Total Species Count
+77,EF1,23,Jul-2022,2022,Jul,Total Species Count
+78,EF1,31,Jun-2022,2022,Jun,Total Species Count
+79,EF1,19,Mar-2022,2022,Mar,Total Species Count
+80,EF1,34,May-2022,2022,May,Total Species Count
+81,EF1,13,Nov-2022,2022,Nov,Total Species Count
+82,EF1,8,Oct-2022,2022,Oct,Total Species Count
+83,EF1,17,Sept-2022,2022,Sept,Total Species Count
+84,EF2,22,Apr-2022,2022,Apr,Total Species Count
+85,EF2,12,Aug-2022,2022,Aug,Total Species Count
+86,EF2,19,Dec-2022,2022,Dec,Total Species Count
+87,EF2,10,Feb-2022,2022,Feb,Total Species Count
+88,EF2,5,Jan-2022,2022,Jan,Total Species Count
+89,EF2,19,Jul-2022,2022,Jul,Total Species Count
+90,EF2,13,Jun-2022,2022,Jun,Total Species Count
+91,EF2,5,Mar-2022,2022,Mar,Total Species Count
+92,EF2,23,May-2022,2022,May,Total Species Count
+93,EF2,13,Nov-2022,2022,Nov,Total Species Count
+94,EF2,10,Oct-2022,2022,Oct,Total Species Count
+95,EF2,17,Sept-2022,2022,Sept,Total Species Count
+96,EM,17,Apr-2022,2022,Apr,Total Species Count
+97,EM,16,Aug-2022,2022,Aug,Total Species Count
+98,EM,8,Dec-2022,2022,Dec,Total Species Count
+99,EM,5,Feb-2022,2022,Feb,Total Species Count
+100,EM,10,Jan-2022,2022,Jan,Total Species Count
+101,EM,24,Jul-2022,2022,Jul,Total Species Count
+102,EM,17,Jun-2022,2022,Jun,Total Species Count
+103,EM,13,Mar-2022,2022,Mar,Total Species Count
+104,EM,18,May-2022,2022,May,Total Species Count
+105,EM,14,Nov-2022,2022,Nov,Total Species Count
+106,EM,13,Oct-2022,2022,Oct,Total Species Count
+107,EM,9,Sept-2022,2022,Sept,Total Species Count
+108,IM,10,Apr-2022,2022,Apr,Total Species Count
+109,IM,5,Aug-2022,2022,Aug,Total Species Count
+110,IM,0,Dec-2022,2022,Dec,Total Species Count
+111,IM,5,Feb-2022,2022,Feb,Total Species Count
+112,IM,0,Jan-2022,2022,Jan,Total Species Count
+113,IM,10,Jul-2022,2022,Jul,Total Species Count
+114,IM,9,Jun-2022,2022,Jun,Total Species Count
+115,IM,4,Mar-2022,2022,Mar,Total Species Count
+116,IM,13,May-2022,2022,May,Total Species Count
+117,IM,1,Nov-2022,2022,Nov,Total Species Count
+118,IM,9,Oct-2022,2022,Oct,Total Species Count
+119,IM,2,Sept-2022,2022,Sept,Total Species Count
+120,MC1,25,Apr-2022,2022,Apr,Total Species Count
+121,MC1,21,Aug-2022,2022,Aug,Total Species Count
+122,MC1,15,Dec-2022,2022,Dec,Total Species Count
+123,MC1,15,Feb-2022,2022,Feb,Total Species Count
+124,MC1,18,Jan-2022,2022,Jan,Total Species Count
+125,MC1,29,Jul-2022,2022,Jul,Total Species Count
+126,MC1,29,Jun-2022,2022,Jun,Total Species Count
+127,MC1,25,Mar-2022,2022,Mar,Total Species Count
+128,MC1,30,May-2022,2022,May,Total Species Count
+129,MC1,23,Nov-2022,2022,Nov,Total Species Count
+130,MC1,17,Oct-2022,2022,Oct,Total Species Count
+131,MC1,14,Sept-2022,2022,Sept,Total Species Count
+132,MC2,16,Apr-2022,2022,Apr,Total Species Count
+133,MC2,7,Aug-2022,2022,Aug,Total Species Count
+134,MC2,6,Dec-2022,2022,Dec,Total Species Count
+135,MC2,3,Feb-2022,2022,Feb,Total Species Count
+136,MC2,4,Jan-2022,2022,Jan,Total Species Count
+137,MC2,11,Jul-2022,2022,Jul,Total Species Count
+138,MC2,14,Jun-2022,2022,Jun,Total Species Count
+139,MC2,7,Mar-2022,2022,Mar,Total Species Count
+140,MC2,17,May-2022,2022,May,Total Species Count
+141,MC2,17,Nov-2022,2022,Nov,Total Species Count
+142,MC2,10,Oct-2022,2022,Oct,Total Species Count
+143,MC2,8,Sept-2022,2022,Sept,Total Species Count
+144,NF1,5,Apr-2022,2022,Apr,Total Species Count
+145,NF1,13,Aug-2022,2022,Aug,Total Species Count
+146,NF1,4,Dec-2022,2022,Dec,Total Species Count
+147,NF1,2,Feb-2022,2022,Feb,Total Species Count
+148,NF1,9,Jan-2022,2022,Jan,Total Species Count
+149,NF1,12,Jul-2022,2022,Jul,Total Species Count
+150,NF1,5,Jun-2022,2022,Jun,Total Species Count
+151,NF1,6,Mar-2022,2022,Mar,Total Species Count
+152,NF1,6,May-2022,2022,May,Total Species Count
+153,NF1,0,Nov-2022,2022,Nov,Total Species Count
+154,NF1,8,Oct-2022,2022,Oct,Total Species Count
+155,NF1,7,Sept-2022,2022,Sept,Total Species Count
+156,NF2,19,Apr-2022,2022,Apr,Total Species Count
+157,NF2,13,Aug-2022,2022,Aug,Total Species Count
+158,NF2,8,Dec-2022,2022,Dec,Total Species Count
+159,NF2,5,Feb-2022,2022,Feb,Total Species Count
+160,NF2,10,Jan-2022,2022,Jan,Total Species Count
+161,NF2,14,Jul-2022,2022,Jul,Total Species Count
+162,NF2,11,Jun-2022,2022,Jun,Total Species Count
+163,NF2,9,Mar-2022,2022,Mar,Total Species Count
+164,NF2,12,May-2022,2022,May,Total Species Count
+165,NF2,0,Nov-2022,2022,Nov,Total Species Count
+166,NF2,19,Oct-2022,2022,Oct,Total Species Count
+167,NF2,15,Sept-2022,2022,Sept,Total Species Count
+168,OE,9,Apr-2022,2022,Apr,Total Species Count
+169,OE,1,Aug-2022,2022,Aug,Total Species Count
+170,OE,6,Dec-2022,2022,Dec,Total Species Count
+171,OE,4,Feb-2022,2022,Feb,Total Species Count
+172,OE,6,Jan-2022,2022,Jan,Total Species Count
+173,OE,1,Jul-2022,2022,Jul,Total Species Count
+174,OE,2,Jun-2022,2022,Jun,Total Species Count
+175,OE,5,Mar-2022,2022,Mar,Total Species Count
+176,OE,2,May-2022,2022,May,Total Species Count
+177,OE,7,Nov-2022,2022,Nov,Total Species Count
+178,OE,0,Oct-2022,2022,Oct,Total Species Count
+179,OE,2,Sept-2022,2022,Sept,Total Species Count
+180,SA,30,Apr-2022,2022,Apr,Total Species Count
+181,SA,21,Aug-2022,2022,Aug,Total Species Count
+182,SA,20,Dec-2022,2022,Dec,Total Species Count
+183,SA,6,Feb-2022,2022,Feb,Total Species Count
+184,SA,15,Jan-2022,2022,Jan,Total Species Count
+185,SA,15,Jul-2022,2022,Jul,Total Species Count
+186,SA,21,Jun-2022,2022,Jun,Total Species Count
+187,SA,13,Mar-2022,2022,Mar,Total Species Count
+188,SA,30,May-2022,2022,May,Total Species Count
+189,SA,0,Nov-2022,2022,Nov,Total Species Count
+190,SA,15,Oct-2022,2022,Oct,Total Species Count
+191,SA,10,Sept-2022,2022,Sept,Total Species Count
+192,SR,12,Apr-2022,2022,Apr,Total Species Count
+193,SR,1,Aug-2022,2022,Aug,Total Species Count
+194,SR,11,Dec-2022,2022,Dec,Total Species Count
+195,SR,10,Feb-2022,2022,Feb,Total Species Count
+196,SR,7,Jan-2022,2022,Jan,Total Species Count
+197,SR,12,Jul-2022,2022,Jul,Total Species Count
+198,SR,8,Jun-2022,2022,Jun,Total Species Count
+199,SR,16,Mar-2022,2022,Mar,Total Species Count
+200,SR,19,May-2022,2022,May,Total Species Count
+201,SR,13,Nov-2022,2022,Nov,Total Species Count
+202,SR,4,Oct-2022,2022,Oct,Total Species Count
+203,SR,6,Sept-2022,2022,Sept,Total Species Count
+204,TD1,7,Apr-2022,2022,Apr,Total Species Count
+205,TD1,4,Aug-2022,2022,Aug,Total Species Count
+206,TD1,2,Dec-2022,2022,Dec,Total Species Count
+207,TD1,0,Feb-2022,2022,Feb,Total Species Count
+208,TD1,5,Jan-2022,2022,Jan,Total Species Count
+209,TD1,6,Jul-2022,2022,Jul,Total Species Count
+210,TD1,6,Jun-2022,2022,Jun,Total Species Count
+211,TD1,2,Mar-2022,2022,Mar,Total Species Count
+212,TD1,8,May-2022,2022,May,Total Species Count
+213,TD1,3,Nov-2022,2022,Nov,Total Species Count
+214,TD1,0,Oct-2022,2022,Oct,Total Species Count
+215,TD1,5,Sept-2022,2022,Sept,Total Species Count
+216,TD2,16,Apr-2022,2022,Apr,Total Species Count
+217,TD2,11,Aug-2022,2022,Aug,Total Species Count
+218,TD2,12,Dec-2022,2022,Dec,Total Species Count
+219,TD2,7,Feb-2022,2022,Feb,Total Species Count
+220,TD2,8,Jan-2022,2022,Jan,Total Species Count
+221,TD2,14,Jul-2022,2022,Jul,Total Species Count
+222,TD2,16,Jun-2022,2022,Jun,Total Species Count
+223,TD2,7,Mar-2022,2022,Mar,Total Species Count
+224,TD2,14,May-2022,2022,May,Total Species Count
+225,TD2,7,Nov-2022,2022,Nov,Total Species Count
+226,TD2,2,Oct-2022,2022,Oct,Total Species Count
+227,TD2,10,Sept-2022,2022,Sept,Total Species Count
+228,TD3,12,Apr-2022,2022,Apr,Total Species Count
+229,TD3,7,Aug-2022,2022,Aug,Total Species Count
+230,TD3,7,Dec-2022,2022,Dec,Total Species Count
+231,TD3,2,Feb-2022,2022,Feb,Total Species Count
+232,TD3,3,Jan-2022,2022,Jan,Total Species Count
+233,TD3,9,Jul-2022,2022,Jul,Total Species Count
+234,TD3,20,Jun-2022,2022,Jun,Total Species Count
+235,TD3,6,Mar-2022,2022,Mar,Total Species Count
+236,TD3,14,May-2022,2022,May,Total Species Count
+237,TD3,7,Nov-2022,2022,Nov,Total Species Count
+238,TD3,1,Oct-2022,2022,Oct,Total Species Count
+239,TD3,1,Sept-2022,2022,Sept,Total Species Count
+240,WD,5,Apr-2022,2022,Apr,Total Species Count
+241,WD,6,Aug-2022,2022,Aug,Total Species Count
+242,WD,2,Dec-2022,2022,Dec,Total Species Count
+243,WD,2,Feb-2022,2022,Feb,Total Species Count
+244,WD,4,Jan-2022,2022,Jan,Total Species Count
+245,WD,5,Jul-2022,2022,Jul,Total Species Count
+246,WD,7,Jun-2022,2022,Jun,Total Species Count
+247,WD,11,Mar-2022,2022,Mar,Total Species Count
+248,WD,4,May-2022,2022,May,Total Species Count
+249,WD,3,Nov-2022,2022,Nov,Total Species Count
+250,WD,2,Oct-2022,2022,Oct,Total Species Count
+251,WD,5,Sept-2022,2022,Sept,Total Species Count
