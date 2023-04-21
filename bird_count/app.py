@@ -26,8 +26,6 @@ months = [
     'Oct',
     'Nov',
     'Dec']
-df['month'] = pd.Categorical(df['month'], months)
-df = df.sort_values(['year', 'month'])
 
 app = Dash(__name__)
 
@@ -117,15 +115,13 @@ def update_map(species):
     Input("species-dropdown", "value")
 )
 def update_graph(species):
-    dff = df[(df['species']== species) & (df['id']=='ALL')].copy()
-    dff['month'] = pd.Categorical(dff['month'], months)
-    dff = dff.sort_values("month")
+    dff = df[(df['species']== species) & (df['id']=='ALL')]
 
     fig = px.line(dff,
         x='month',
         y='count',
         color="year",
-        # color_continuous_scale="Purples",
+        color_discrete_sequence=px.colors.qualitative.Light24,
         template="plotly_dark",
     )
 
