@@ -1,6 +1,7 @@
 import json
 import re
 import os
+import calendar
 from pathlib import Path
 
 import pandas as pd
@@ -13,19 +14,7 @@ with open(os.path.join(Path(__file__).parent, '.mapbox_token')) as token_file:
     token = token_file.read()
 
 df = pd.read_csv(os.path.join(Path(__file__).parent, 'data', 'count_data.csv'), index_col=0)
-months = [
-    'Jan',
-    'Feb',
-    'Mar',
-    'Apr',
-    'May',
-    'Jun',
-    'Jul',
-    'Aug',
-    'Sept',
-    'Oct',
-    'Nov',
-    'Dec']
+months = calendar.month_abbr[1:]
 
 app = Dash(__name__)
 
@@ -51,6 +40,13 @@ app.layout = html.Div(
                         options=sorted(df["species"].unique()),
                         value="Total Species Count",
                         clearable=False,
+                    ),
+                    html.P("Selection Line Shape:"),
+                    dcc.RadioItems(
+                        ['linear', 'spline'],
+                        'spline',
+                        id='line-shape-radio',
+                        inline=True
                     ),
                 ])
             ],
@@ -112,17 +108,22 @@ def update_map(species):
 
 @app.callback(
     Output("count-graph", "figure"), 
-    Input("species-dropdown", "value")
+    Input("species-dropdown", "value"),
+    Input("line-shape-radio", "value"),
 )
-def update_graph(species):
+def update_graph(species, line_shape):
     dff = df[(df['species']== species) & (df['id']=='ALL')]
 
     fig = px.line(dff,
         x='month',
         y='count',
+        category_orders= {'month': months},
         color="year",
         color_discrete_sequence=px.colors.qualitative.Light24,
         template="plotly_dark",
+        markers=True,
+        line_shape=line_shape,
+
     )
 
     fig.update_layout(

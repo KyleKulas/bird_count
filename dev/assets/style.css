@@ -32,6 +32,10 @@ P {
     width: 250px;
 }
 
+#line-shape-radio {
+    color: #c1c1c1;
+}
+
 #count-map {
     height: 100%;
 }
