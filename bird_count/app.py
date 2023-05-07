@@ -212,4 +212,4 @@ def update_graph(species, line_shape, average_checklist):
 
 
 if __name__ == "__main__":
-    dash_app.run()
+    dash_app.run_server()
