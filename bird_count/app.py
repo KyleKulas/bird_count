@@ -36,10 +36,11 @@ def get_stats_df(df):
     
     return stats_df
 
-app = Dash(__name__)
+dash_app = Dash(__name__)
+app = dash_app.server
 
-app.layout = html.Div(
-    id="app-container",
+dash_app.layout = html.Div(
+    id="dash_app-container",
     children=[
         html.Div(
             id="sidebar-container",
@@ -71,7 +72,7 @@ app.layout = html.Div(
     ],
 )
 
-@app.callback(
+@dash_app.callback(
     Output('sidebar-content', 'children'),
     Input('tabs', 'value')
 )
@@ -95,7 +96,7 @@ def render_sidebar_content(tab):
         ]
 
 
-@app.callback(
+@dash_app.callback(
     Output('content-container', 'children'),
     Input('tabs', 'value')
 )
@@ -111,7 +112,7 @@ def render_content(tab):
             config=dict(responsive=True),
         )
 
-@app.callback(
+@dash_app.callback(
     Output("count-map", "figure"), 
     Input("species-dropdown", "value")
 )
@@ -144,7 +145,7 @@ def update_map(species):
 
     return fig
 
-@app.callback(
+@dash_app.callback(
     Output("count-graph", "figure"), 
     Input("species-dropdown", "value"),
     Input("line-shape-radio", "value"),
@@ -211,4 +212,4 @@ def update_graph(species, line_shape, average_checklist):
 
 
 if __name__ == "__main__":
-    app.run()
+    dash_app.run()
