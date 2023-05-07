@@ -211,4 +211,4 @@ def update_graph(species, line_shape, average_checklist):
 
 
 if __name__ == "__main__":
-    app.run(debug=False, host='0.0.0.0', port='8050')
+    app.run()
