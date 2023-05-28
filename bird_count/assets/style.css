@@ -10,11 +10,9 @@ P {
     color: #c1c1c1
 }
 
-.tab.tab--selected {
-    background-color: #565656;
-}
 
-#app-container {
+
+#dash_app-container {
     display: flex;
     flex-direction: row;
     height: 100vh;
@@ -47,4 +45,10 @@ P {
     height: 100%;
 }
 
+.custom-tab {
+    background-color: #ca3535;
+}
 
+.custom-tab--selected {
+    background-color: #7f7f7f;
+}
