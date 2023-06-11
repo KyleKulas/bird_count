@@ -8,6 +8,14 @@ import pandas as pd
 from dash import Dash, dcc, html, Input, Output
 import plotly.express as px
 import plotly.graph_objects as go
+import dash_bootstrap_components as dbc
+from dash_bootstrap_templates import load_figure_template
+
+# loads the "sketchy" template and sets it as the default
+load_figure_template("darkly")
+dbc_css = "https://cdn.jsdelivr.net/gh/AnnMarieW/dash-bootstrap-templates/dbc.min.css"
+dash_app = Dash(__name__, external_stylesheets=[dbc.themes.DARKLY, dbc_css])
+app = dash_app.server
 
 with open(os.path.join(Path(__file__).parent, "data", "areas.json")) as areas_file:
     areas = json.load(areas_file)
@@ -18,7 +26,6 @@ df = pd.read_csv(
     os.path.join(Path(__file__).parent, "data", "count_data.csv"), index_col=0
 )
 months = calendar.month_abbr[1:]
-
 
 # Helper functions
 # Stats for df
@@ -46,10 +53,11 @@ def colour_array(size):
     return [f"rgb({x}, {x}, 255)" for x in np.linspace(255, 0, size, dtype=int)]
 
 
-dash_app = Dash(__name__)
-app = dash_app.server
 
-dash_app.layout = html.Div(
+# Layout
+dash_app.layout = dbc.Container(
+    [
+    html.Div(
     id="dash_app-container",
     children=[
         html.Div(
@@ -99,7 +107,9 @@ dash_app.layout = html.Div(
             id="content-container",
         ),
     ],
-)
+    )], 
+    fluid=True,
+    className="dbc",)
 
 
 @dash_app.callback(
@@ -164,7 +174,7 @@ def update_map(species):
         opacity=0.5,
         labels={"count": "Count", "id": "Area"},
         animation_frame="date",
-        template="plotly_dark",
+        # template="plotly_dark",
     )
     fig.update_layout(
         margin={"r": 20, "t": 20, "l": 20, "b": 20},
@@ -199,7 +209,7 @@ def update_graph(year_range, species, line_shape, average_checklist):
         color="year",
         color_discrete_sequence=colour_array(len(dff["year"].unique())),
         # color_discrete_sequence=px.colors.qualitative.Light24,
-        template="plotly_dark",
+        # template="plotly_dark",
         markers=True,
         line_shape=line_shape,
         labels={"year": "Year", "month": "Month", "count": "Count"},
