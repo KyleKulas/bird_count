@@ -52,64 +52,80 @@ def get_stats_df(df):
 def colour_array(size):
     return [f"rgb({x}, {x}, 255)" for x in np.linspace(255, 0, size, dtype=int)]
 
-
-
 # Layout
 dash_app.layout = dbc.Container(
-    [
-    html.Div(
     id="dash_app-container",
+    fluid=True,
+    className="dbc",
+    style={"height": "100vh"},
     children=[
-        html.Div(
-            id="sidebar-container",
-            children=[
-                html.H1("Squamish Monthly Bird Count"),
-                html.Br(),
-                html.P("Select Species:"),
-                dcc.Dropdown(
-                    id="species-dropdown",
-                    options=sorted(df["species"].unique()),
-                    value="Total Species Count",
-                    clearable=False,
-                ),
-                html.P("Date Range:"),
-                html.P(
-                    dcc.RangeSlider(
-                        min=df["year"].min(),
-                        max=df["year"].max(),
-                        step=1,
-                        marks=None,
-                        tooltip={"placement": "bottom", "always_visible": True},
-                        id="year-range-slider",
+        dbc.Row(
+            [
+                dbc.Col(
+                    html.Div(
+                        id="sidebar-container",
+                        children=[
+                            html.H1("Squamish Monthly Bird Count"),
+                            html.Br(),
+                            html.P("Select Species:"),
+                            dcc.Dropdown(
+                                id="species-dropdown",
+                                options=sorted(df["species"].unique()),
+                                value="Total Species Count",
+                                clearable=False,
+                            ),
+                            html.P("Date Range:"),
+                            html.P(
+                                dcc.RangeSlider(
+                                    min=df["year"].min(),
+                                    max=df["year"].max(),
+                                    step=1,
+                                    marks=None,
+                                    tooltip={
+                                        "placement": "bottom",
+                                        "always_visible": True,
+                                    },
+                                    id="year-range-slider",
+                                ),
+                            ),
+                            # html.P(),
+                            dcc.Tabs(
+                                id="tabs",
+                                value="tab-graph",
+                                children=[
+                                    dcc.Tab(
+                                        label="Graph",
+                                        value="tab-graph",
+                                    ),
+                                    dcc.Tab(
+                                        label="Map",
+                                        value="tab-map",
+                                    ),
+                                ],
+                            ),
+                            html.Div(
+                                id="sidebar-content"
+                            )
+                        ],
                     ),
+                    width=2,
+                    style={"height": "100%"}
                 ),
-                # html.P(),
-                dcc.Tabs(
-                    id="tabs",
-                    value="tab-graph",
-                    children=[
-                        dcc.Tab(
-                            label="Graph",
-                            value="tab-graph",
-                        ),
-                        dcc.Tab(
-                            label="Map",
-                            value="tab-map",
-                        ),
-                    ],
-                ),
-                html.Div(
-                    id="sidebar-content",
+                dbc.Col(
+                    html.Div(
+                        id="content-container",
+                        style={"height": "100vh"}
+                    ),
+                    width=10,
+                    style={"height": "100%"}
                 ),
             ],
-        ),
-        html.Div(
-            id="content-container",
-        ),
+            # align='stretch',
+            style={"height": "100vh"},
+        )
     ],
-    )], 
-    fluid=True,
-    className="dbc",)
+)
+
 
 
 @dash_app.callback(
@@ -146,11 +162,13 @@ def render_content(tab):
         return dcc.Graph(
             id="count-map",
             config=dict(responsive=True),
+            style={"height": "100vh"}
         )
     elif tab == "tab-graph":
         return dcc.Graph(
             id="count-graph",
             config=dict(responsive=True),
+            style={"height": "100vh"}
         )
 
 
