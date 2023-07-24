@@ -23,7 +23,7 @@ with open(os.path.join(Path(__file__).parent, ".mapbox_token")) as token_file:
     token = token_file.read()
 
 df = pd.read_csv(
-    os.path.join(Path(__file__).parent, "data", "count_data.csv"), index_col=0
+    os.path.join(Path(__file__).parent, "data", "count_data_newest_first.csv"), index_col=0
 )
 months = calendar.month_abbr[1:]
 
@@ -243,7 +243,7 @@ def update_graph(year_range, species, line_shape, average_checklist):
                 line_shape=line_shape,
                 name="Average",
                 line={"width": 4, "color": "Red"},
-                showlegend=False,
+                # showlegend=False,
             )
         )
 
@@ -269,6 +269,8 @@ def update_graph(year_range, species, line_shape, average_checklist):
             )
         )
 
+    fig.data = fig.data[::-1]
+
     fig.update_layout(
         margin={"r": 20, "t": 20, "l": 20, "b": 20},
         xaxis={
@@ -278,6 +280,8 @@ def update_graph(year_range, species, line_shape, average_checklist):
             "range": [-0.1, 11.1],
         },
         yaxis={"title": "Count", "visible": True},
+        hovermode = 'x',
+        
     )
 
     return fig
