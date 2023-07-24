@@ -65,7 +65,7 @@ dash_app.layout = dbc.Container(
                     html.Div(
                         id="sidebar-container",
                         children=[
-                            html.H1("Squamish Monthly Bird Count"),
+                            html.H3("Squamish Monthly Bird Count"),
                             html.Br(),
                             html.P("Select Species:"),
                             dcc.Dropdown(
