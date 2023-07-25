@@ -11,25 +11,27 @@ import plotly.graph_objects as go
 import dash_bootstrap_components as dbc
 from dash_bootstrap_templates import load_figure_template
 
-# loads the "sketchy" template and sets it as the default
+# Load the "sketchy" template and sets it as the default
 load_figure_template("darkly")
+
 dbc_css = "https://cdn.jsdelivr.net/gh/AnnMarieW/dash-bootstrap-templates/dbc.min.css"
 dash_app = Dash(__name__, external_stylesheets=[dbc.themes.DARKLY, dbc_css])
 server = dash_app.server
 
+# Load data
 with open(os.path.join(Path(__file__).parent, "data", "areas.json")) as areas_file:
     areas = json.load(areas_file)
 with open(os.path.join(Path(__file__).parent, ".mapbox_token")) as token_file:
     token = token_file.read()
-
 df = pd.read_csv(
     os.path.join(Path(__file__).parent, "data", "count_data.csv"), index_col=0
 )
 months = calendar.month_abbr[1:]
 
-# Helper functions
-# Stats for df
+# ------------------------------ Helper functions ------------------------------
+
 def get_stats_df(df):
+    """Creates a dataframe with statics of the dataset."""
     stats_df = df[df["id"] == "ALL"]
     stats_df = (
         stats_df.groupby(["month", "species"])
@@ -48,11 +50,11 @@ def get_stats_df(df):
 
     return stats_df
 
-# Create list of colours for line chart
 def colour_array(size):
+    """Create a list of colours for the line chart"""
     return [f"rgb({x}, {x}, 255)" for x in np.linspace(0, 255, size, dtype=int)]
 
-# Layout
+# ---------------------------------- Layout ------------------------------------
 dash_app.layout = dbc.Container(
     id="dash_app-container",
     fluid=True,
@@ -126,7 +128,7 @@ dash_app.layout = dbc.Container(
     ],
 )
 
-
+# --------------------------------- Callbacks ----------------------------------
 
 @dash_app.callback(
     Output("sidebar-content", "children"), 
@@ -230,7 +232,6 @@ def update_graph(year_range, species, line_shape, average_checklist):
         color="year",
         color_discrete_sequence=colour_array(len(dff["year"].unique())),
         # color_discrete_sequence=px.colors.qualitative.Light24,
-        # template="plotly_dark",
         markers=True,
         line_shape=line_shape,
         labels={"year": "Year", "month": "Month", "count": "Count"},
@@ -246,9 +247,13 @@ def update_graph(year_range, species, line_shape, average_checklist):
                 line_shape=line_shape,
                 name="Average",
                 line={"width": 4, "color": "Red"},
-                # showlegend=False,
             )
         )
+
+        # Reorder fig data to draw average first
+        reordered_data = list(fig.data)
+        reordered_data[0], reordered_data[1:] = reordered_data[-1], reordered_data[0:-1]
+        fig.data = reordered_data
 
     # Standard deviation line
     if "Standard Deviation" in average_checklist:
@@ -272,7 +277,10 @@ def update_graph(year_range, species, line_shape, average_checklist):
             )
         )
 
-    # fig.data = fig.data[::-1]
+        # Reorder fig data to draw std first
+        reordered_data = list(fig.data)
+        reordered_data[0], reordered_data[1:] = reordered_data[-1], reordered_data[0:-1]
+        fig.data = reordered_data
 
     fig.update_layout(
         margin={"r": 20, "t": 20, "l": 20, "b": 20},
@@ -282,9 +290,7 @@ def update_graph(year_range, species, line_shape, average_checklist):
             "showticklabels": True,
             "range": [-0.1, 11.1],
         },
-        yaxis={"title": "Count", "visible": True},
-        hovermode = 'x',
-        
+        yaxis={"title": "Count", "visible": True},        
     )
 
     return fig
