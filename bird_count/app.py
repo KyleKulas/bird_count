@@ -23,7 +23,7 @@ with open(os.path.join(Path(__file__).parent, ".mapbox_token")) as token_file:
     token = token_file.read()
 
 df = pd.read_csv(
-    os.path.join(Path(__file__).parent, "data", "count_data_newest_first.csv"), index_col=0
+    os.path.join(Path(__file__).parent, "data", "count_data.csv"), index_col=0
 )
 months = calendar.month_abbr[1:]
 
@@ -50,7 +50,7 @@ def get_stats_df(df):
 
 # Create list of colours for line chart
 def colour_array(size):
-    return [f"rgb({x}, {x}, 255)" for x in np.linspace(255, 0, size, dtype=int)]
+    return [f"rgb({x}, {x}, 255)" for x in np.linspace(0, 255, size, dtype=int)]
 
 # Layout
 dash_app.layout = dbc.Container(
@@ -174,10 +174,13 @@ def render_content(tab):
 
 @dash_app.callback(
     Output("count-map", "figure"), 
+    Input("year-range-slider", "value"),
     Input("species-dropdown", "value")
 )
-def update_map(species):
+def update_map(year_range, species):
     dff = df[df["species"] == species]
+    if year_range is not None:
+        dff = dff[(dff["year"] >= year_range[0]) & (dff["year"] <= year_range[1])]
 
     fig = px.choropleth_mapbox(
         dff,
@@ -188,7 +191,7 @@ def update_map(species):
         color_continuous_scale="Purples",
         range_color=(0, dff["count"].max()),
         zoom=12.5,
-        center={"lat": 49.7, "lon": -123.15},
+        center={"lat": 49.697, "lon": -123.16},
         opacity=0.5,
         labels={"count": "Count", "id": "Area"},
         animation_frame="date",
@@ -269,7 +272,7 @@ def update_graph(year_range, species, line_shape, average_checklist):
             )
         )
 
-    fig.data = fig.data[::-1]
+    # fig.data = fig.data[::-1]
 
     fig.update_layout(
         margin={"r": 20, "t": 20, "l": 20, "b": 20},
