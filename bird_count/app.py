@@ -15,7 +15,7 @@ from dash_bootstrap_templates import load_figure_template
 load_figure_template("darkly")
 dbc_css = "https://cdn.jsdelivr.net/gh/AnnMarieW/dash-bootstrap-templates/dbc.min.css"
 dash_app = Dash(__name__, external_stylesheets=[dbc.themes.DARKLY, dbc_css])
-app = dash_app.server
+server = dash_app.server
 
 with open(os.path.join(Path(__file__).parent, "data", "areas.json")) as areas_file:
     areas = json.load(areas_file)
@@ -288,4 +288,4 @@ def update_graph(year_range, species, line_shape, average_checklist):
 
 
 if __name__ == "__main__":
-    dash_app.run_server()
+    dash_app.run()
