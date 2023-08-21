@@ -110,7 +110,7 @@ dash_app.layout = dbc.Container(
                             )
                         ],
                     ),
-                    width=2,
+                    width=3,
                     style={"height": "100%"}
                 ),
                 dbc.Col(
@@ -118,7 +118,7 @@ dash_app.layout = dbc.Container(
                         id="content-container",
                         style={"height": "100vh"}
                     ),
-                    width=10,
+                    width=9,
                     style={"height": "100%"}
                 ),
             ],
